@@ -9,41 +9,48 @@ characters:
     weight: 60kg
     birthday: 4月11日
     blood_type: O
+    group: ST☆RISH
   - name: 四ノ宮那月
     sex: male
     height: 186cm
     weight: 70kg
     birthday: 6月9日
     blood_type: AB
+    group: ST☆RISH
   - name: 聖川真斗
     sex: male
     height: 181cm
     weight: 64kg
     birthday: 12月29日
     blood_type: A
+    group: ST☆RISH
   - name: 一ノ瀬トキヤ
     sex: male
     height: 179cm
     weight: 59kg
     birthday: 8月6日
     blood_type: A
+    group: ST☆RISH
   - name: 来栖翔
     sex: male
     height: 161cm
     weight: 52kg
     birthday: 6月9日
     blood_type: O
+    group: ST☆RISH
   - name: 神宮寺レン
     sex: male
     height: 183cm
     weight: 63kg
     birthday: 2月14日
     blood_type: B
+    group: ST☆RISH
   - name: 愛島セシル
     sex: male
     height: 177cm
     weight: 58kg
     birthday: 10月31日
+    group: ST☆RISH
   - name: 月宮林檎
     sex: male
     height: 173cm
@@ -68,22 +75,26 @@ characters:
     weight: 61kg
     birthday: 7月13日
     blood_type: B
+    group: QUARTET NIGHT
   - name: 黒崎蘭丸
     sex: male
     height: 182cm
     weight: 67kg
     birthday: 9月29日
     blood_type: A
+    group: QUARTET NIGHT
   - name: 美風藍
     sex: male
     height: 178kg
     birthday: 3月1日
+    group: QUARTET NIGHT
   - name: カミュ
     sex: male
     height: 184cm
     weight: 71kg
     birthday: 1月23日
     blood_type: O
+    group: QUARTET NIGHT
   - name: 渋谷友千香
     sex: female
     height: 163cm
@@ -110,42 +121,49 @@ characters:
     weight: 69kg
     birthday: 9月1日
     blood_type: AB
+    group: HE★VENS
   - name: 皇綺羅
     sex: male
     height: 180cm
     weight: 65kg
     birthday: 5月5日
     blood_type: O
+    group: HE★VENS
   - name: 帝ナギ
     sex: male
     height: 158cm
     weight: 45kg
     birthday: 1月7日
     blood_type: A
+    group: HE★VENS
   - name: 鳳瑛二
     sex: male
     height: 170cm
     weight: 56kg
     birthday: 10月29日
     blood_type: B
+    group: HE★VENS
   - name: 桐生院ヴァン
     sex: male
     height: 176cm
     weight: 62kg
     birthday: 12月12日
     blood_type: O
+    group: HE★VENS
   - name: 日向大和
     sex: male
     height: 188cm
     weight: 75kg
     birthday: 3月30日
     blood_type: B
+    group: HE★VENS
   - name: 天草シオン
     sex: male
     height: 174cm
     weight: 55kg
     birthday: 11月4日
     blood_type: AB
+    group: HE★VENS
   - name: 四ノ宮砂月
     sex: male
   - name: 聖川真衣
