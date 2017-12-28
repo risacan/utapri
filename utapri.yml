@@ -1,37 +1,161 @@
 characters:
-  - 七海春歌
-  - 一十木音也
-  - 四ノ宮那月
-  - 聖川真斗
-  - 一ノ瀬トキヤ
-  - 来栖翔
-  - 神宮寺レン
-  - 愛島セシル
-  - 月宮林檎
-  - 日向龍也
-  - シャイニング早乙女
-  - 寿嶺二
-  - 黒崎蘭丸
-  - 美風藍
-  - カミュ
-  - 渋谷友千香
-  - 来栖薫
-  - 神宮寺誠一郎
-  - 氷室
-  - 逸見
-  - レイジング鳳
-  - 鳳瑛一
-  - 皇綺羅
-  - 帝ナギ
-  - 鳳瑛二
-  - 桐生院ヴァン
-  - 日向大和
-  - 天草シオン
-  - 四ノ宮砂月
-  - 聖川真衣
-  - 如月愛音
-  - 音波圭
-  - 片桐響
+  - name: 七海春歌
+    sex: female
+    height: 157cm
+    weight: 45kg
+  - name: 一十木音也
+    sex: male
+    height: 175cm
+    weight: 60kg
+    birthday: 4月11日
+    blood_type: O
+  - name: 四ノ宮那月
+    sex: male
+    height: 186cm
+    weight: 70kg
+    birthday: 6月9日
+    blood_type: AB
+  - name: 聖川真斗
+    sex: male
+    height: 181cm
+    weight: 64kg
+    birthday: 12月29日
+    blood_type: A
+  - name: 一ノ瀬トキヤ
+    sex: male
+    height: 179cm
+    weight: 59kg
+    birthday: 8月6日
+    blood_type: A
+  - name: 来栖翔
+    sex: male
+    height: 161cm
+    weight: 52kg
+    birthday: 6月9日
+    blood_type: O
+  - name: 神宮寺レン
+    sex: male
+    height: 183cm
+    weight: 63kg
+    birthday: 2月14日
+    blood_type: B
+  - name: 愛島セシル
+    sex: male
+    height: 177cm
+    weight: 58kg
+    birthday: 10月31日
+  - name: 月宮林檎
+    sex: male
+    height: 173cm
+    weight: 56kg
+    birthday: 9月15日
+    blood_type: AB
+  - name: 日向龍也
+    sex: male
+    height: 192cm
+    weight: 85kg
+    birthday: 5月15日
+    blood_type: A
+  - name: シャイニング早乙女
+    sex: male
+    height: 2m
+    weight: 0.1t
+    birthday: 11月22日
+    blood_type: O
+  - name: 寿嶺二
+    sex: male
+    height: 173cm
+    weight: 61kg
+    birthday: 7月13日
+    blood_type: B
+  - name: 黒崎蘭丸
+    sex: male
+    height: 182cm
+    weight: 67kg
+    birthday: 9月29日
+    blood_type: A
+  - name: 美風藍
+    sex: male
+    height: 178kg
+    birthday: 3月1日
+  - name: カミュ
+    sex: male
+    height: 184cm
+    weight: 71kg
+    birthday: 1月23日
+    blood_type: O
+  - name: 渋谷友千香
+    sex: female
+    height: 163cm
+    weight: 49kg
+    birthday: 7月7日
+    blood_type: O
+  - name: 来栖薫
+    sex: male
+    height: 165cm
+    weight: 50kg
+    birthday: 6月9日
+    blood_type: O
+  - name: 神宮寺誠一郎
+    sex: male
+  - name: 氷室
+    sex: male
+  - name: 逸見
+    sex: male
+  - name: レイジング鳳
+    sex: male
+  - name: 鳳瑛一
+    sex: male
+    height: 185cm
+    weight: 69kg
+    birthday: 9月1日
+    blood_type: AB
+  - name: 皇綺羅
+    sex: male
+    height: 180cm
+    weight: 65kg
+    birthday: 5月5日
+    blood_type: O
+  - name: 帝ナギ
+    sex: male
+    height: 158cm
+    weight: 45kg
+    birthday: 1月7日
+    blood_type: A
+  - name: 鳳瑛二
+    sex: male
+    height: 170cm
+    weight: 56kg
+    birthday: 10月29日
+    blood_type: B
+  - name: 桐生院ヴァン
+    sex: male
+    height: 176cm
+    weight: 62kg
+    birthday: 12月12日
+    blood_type: O
+  - name: 日向大和
+    sex: male
+    height: 188cm
+    weight: 75kg
+    birthday: 3月30日
+    blood_type: B
+  - name: 天草シオン
+    sex: male
+    height: 174cm
+    weight: 55kg
+    birthday: 11月4日
+    blood_type: AB
+  - name: 四ノ宮砂月
+    sex: male
+  - name: 聖川真衣
+    sex: female
+  - name: 如月愛音
+    sex: male
+  - name: 音波圭
+    sex: male
+  - name: 片桐響
+    sex: male
 games:
   - うたの☆プリンスさまっ♪
   - うたの☆プリンスさまっ♪ Repeat
