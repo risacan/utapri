@@ -10,6 +10,7 @@ characters:
     birthday: 4月11日
     blood_type: O
     group: ST☆RISH
+    color_code: "#e5031a"
   - name: 四ノ宮那月
     sex: male
     height: 186cm
@@ -17,6 +18,7 @@ characters:
     birthday: 6月9日
     blood_type: AB
     group: ST☆RISH
+    color_code: "#f8e400"
   - name: 聖川真斗
     sex: male
     height: 181cm
@@ -24,6 +26,7 @@ characters:
     birthday: 12月29日
     blood_type: A
     group: ST☆RISH
+    color_code: "#005bab"
   - name: 一ノ瀬トキヤ
     sex: male
     height: 179cm
@@ -31,6 +34,7 @@ characters:
     birthday: 8月6日
     blood_type: A
     group: ST☆RISH
+    color_code: "#733fca"
   - name: 来栖翔
     sex: male
     height: 161cm
@@ -38,6 +42,7 @@ characters:
     birthday: 6月9日
     blood_type: O
     group: ST☆RISH
+    color_code: "#ed3a89"
   - name: 神宮寺レン
     sex: male
     height: 183cm
@@ -45,12 +50,14 @@ characters:
     birthday: 2月14日
     blood_type: B
     group: ST☆RISH
+    color_code: "#ee7800"
   - name: 愛島セシル
     sex: male
     height: 177cm
     weight: 58kg
     birthday: 10月31日
     group: ST☆RISH
+    color_code: "#75c635"
   - name: 月宮林檎
     sex: male
     height: 173cm
@@ -122,6 +129,7 @@ characters:
     birthday: 9月1日
     blood_type: AB
     group: HE★VENS
+    color_code: "#e5031a"
   - name: 皇綺羅
     sex: male
     height: 180cm
@@ -129,6 +137,7 @@ characters:
     birthday: 5月5日
     blood_type: O
     group: HE★VENS
+    color_code: "#005bab"
   - name: 帝ナギ
     sex: male
     height: 158cm
@@ -136,6 +145,7 @@ characters:
     birthday: 1月7日
     blood_type: A
     group: HE★VENS
+    color_code: "#f8e400"
   - name: 鳳瑛二
     sex: male
     height: 170cm
@@ -143,6 +153,7 @@ characters:
     birthday: 10月29日
     blood_type: B
     group: HE★VENS
+    color_code: "#733fca"
   - name: 桐生院ヴァン
     sex: male
     height: 176cm
@@ -150,6 +161,7 @@ characters:
     birthday: 12月12日
     blood_type: O
     group: HE★VENS
+    color_code: "#ee7800"
   - name: 日向大和
     sex: male
     height: 188cm
@@ -157,6 +169,7 @@ characters:
     birthday: 3月30日
     blood_type: B
     group: HE★VENS
+    color_code: "#ed3a89"
   - name: 天草シオン
     sex: male
     height: 174cm
@@ -164,6 +177,7 @@ characters:
     birthday: 11月4日
     blood_type: AB
     group: HE★VENS
+    color_code: "#75c635"
   - name: 四ノ宮砂月
     sex: male
   - name: 聖川真衣

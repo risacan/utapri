@@ -13,7 +13,8 @@
       "weight": "60kg",
       "birthday": "4月11日",
       "blood_type": "O",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#e5031a"
     },
     {
       "name": "四ノ宮那月",
@@ -22,7 +23,8 @@
       "weight": "70kg",
       "birthday": "6月9日",
       "blood_type": "AB",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#f8e400"
     },
     {
       "name": "聖川真斗",
@@ -31,7 +33,8 @@
       "weight": "64kg",
       "birthday": "12月29日",
       "blood_type": "A",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#005bab"
     },
     {
       "name": "一ノ瀬トキヤ",
@@ -40,7 +43,8 @@
       "weight": "59kg",
       "birthday": "8月6日",
       "blood_type": "A",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#733fca"
     },
     {
       "name": "来栖翔",
@@ -49,7 +53,8 @@
       "weight": "52kg",
       "birthday": "6月9日",
       "blood_type": "O",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#ed3a89"
     },
     {
       "name": "神宮寺レン",
@@ -58,7 +63,8 @@
       "weight": "63kg",
       "birthday": "2月14日",
       "blood_type": "B",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#ee7800"
     },
     {
       "name": "愛島セシル",
@@ -66,7 +72,8 @@
       "height": "177cm",
       "weight": "58kg",
       "birthday": "10月31日",
-      "group": "ST☆RISH"
+      "group": "ST☆RISH",
+      "color_code": "#75c635"
     },
     {
       "name": "月宮林檎",
@@ -165,7 +172,8 @@
       "weight": "69kg",
       "birthday": "9月1日",
       "blood_type": "AB",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#e5031a"
     },
     {
       "name": "皇綺羅",
@@ -174,7 +182,8 @@
       "weight": "65kg",
       "birthday": "5月5日",
       "blood_type": "O",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#005bab"
     },
     {
       "name": "帝ナギ",
@@ -183,7 +192,8 @@
       "weight": "45kg",
       "birthday": "1月7日",
       "blood_type": "A",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#f8e400"
     },
     {
       "name": "鳳瑛二",
@@ -192,7 +202,8 @@
       "weight": "56kg",
       "birthday": "10月29日",
       "blood_type": "B",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#733fca"
     },
     {
       "name": "桐生院ヴァン",
@@ -201,7 +212,8 @@
       "weight": "62kg",
       "birthday": "12月12日",
       "blood_type": "O",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#ee7800"
     },
     {
       "name": "日向大和",
@@ -210,7 +222,8 @@
       "weight": "75kg",
       "birthday": "3月30日",
       "blood_type": "B",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#ed3a89"
     },
     {
       "name": "天草シオン",
@@ -219,7 +232,8 @@
       "weight": "55kg",
       "birthday": "11月4日",
       "blood_type": "AB",
-      "group": "HE★VENS"
+      "group": "HE★VENS",
+      "color_code": "#75c635"
     },
     {
       "name": "四ノ宮砂月",
