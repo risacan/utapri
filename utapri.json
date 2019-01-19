@@ -2,12 +2,14 @@
   "characters": [
     {
       "name": "七海春歌",
+      "name_en": "HARUKA NANAMI",
       "sex": "female",
       "height": "157cm",
       "weight": "45kg"
     },
     {
       "name": "一十木音也",
+      "name_en": "OTOYA ITTOKI",
       "sex": "male",
       "height": "175cm",
       "weight": "60kg",
@@ -18,6 +20,7 @@
     },
     {
       "name": "四ノ宮那月",
+      "name_en": "NATSUKI SHINOMIYA",
       "sex": "male",
       "height": "186cm",
       "weight": "70kg",
@@ -28,6 +31,7 @@
     },
     {
       "name": "聖川真斗",
+      "name_en": "MASATO HIJIRIKAWA",
       "sex": "male",
       "height": "181cm",
       "weight": "64kg",
@@ -38,6 +42,7 @@
     },
     {
       "name": "一ノ瀬トキヤ",
+      "name_en": "TOKIYA ICHINOSE",
       "sex": "male",
       "height": "179cm",
       "weight": "59kg",
@@ -48,6 +53,7 @@
     },
     {
       "name": "来栖翔",
+      "name_en": "SYO KURUSU",
       "sex": "male",
       "height": "161cm",
       "weight": "52kg",
@@ -58,6 +64,7 @@
     },
     {
       "name": "神宮寺レン",
+      "name_en": "REN JINGUJI",
       "sex": "male",
       "height": "183cm",
       "weight": "63kg",
@@ -68,6 +75,7 @@
     },
     {
       "name": "愛島セシル",
+      "name_en": "CECIL AIJIMA",
       "sex": "male",
       "height": "177cm",
       "weight": "58kg",
@@ -77,6 +85,7 @@
     },
     {
       "name": "月宮林檎",
+      "name_en": "RINGO TSUKIMIYA",
       "sex": "male",
       "height": "173cm",
       "weight": "56kg",
@@ -85,6 +94,7 @@
     },
     {
       "name": "日向龍也",
+      "name_en": "RYUYA HYUGA",
       "sex": "male",
       "height": "192cm",
       "weight": "85kg",
@@ -93,6 +103,7 @@
     },
     {
       "name": "シャイニング早乙女",
+      "name_en": "SHINING SAOTOME",
       "sex": "male",
       "height": "2m",
       "weight": "0.1t",
@@ -101,6 +112,7 @@
     },
     {
       "name": "寿嶺二",
+      "name_en": "REIJI KOTOBUKI",
       "sex": "male",
       "height": "173cm",
       "weight": "61kg",
@@ -110,6 +122,7 @@
     },
     {
       "name": "黒崎蘭丸",
+      "name_en": "RANMARU KUROSAKI",
       "sex": "male",
       "height": "182cm",
       "weight": "67kg",
@@ -119,6 +132,7 @@
     },
     {
       "name": "美風藍",
+      "name_en": "AI MIKAZE",
       "sex": "male",
       "height": "178kg",
       "birthday": "3月1日",
@@ -126,6 +140,7 @@
     },
     {
       "name": "カミュ",
+      "name_en": "CAMUS",
       "sex": "male",
       "height": "184cm",
       "weight": "71kg",
@@ -135,6 +150,7 @@
     },
     {
       "name": "渋谷友千香",
+      "name_en": "TOMOCHIKA SHIBUYA",
       "sex": "female",
       "height": "163cm",
       "weight": "49kg",
@@ -143,6 +159,7 @@
     },
     {
       "name": "来栖薫",
+      "name_en": "KAORU KURUSU",
       "sex": "male",
       "height": "165cm",
       "weight": "50kg",
@@ -151,22 +168,27 @@
     },
     {
       "name": "神宮寺誠一郎",
+      "name_en": "SEIICHIRO JINGUJI",
       "sex": "male"
     },
     {
       "name": "氷室",
+      "name_en": "HIMURO",
       "sex": "male"
     },
     {
       "name": "逸見",
+      "name_en": "ITSUMI",
       "sex": "male"
     },
     {
       "name": "レイジング鳳",
+      "name_en": "RAGING OTORI",
       "sex": "male"
     },
     {
       "name": "鳳瑛一",
+      "name_en": "EIICHI OTORI",
       "sex": "male",
       "height": "185cm",
       "weight": "69kg",
@@ -177,6 +199,7 @@
     },
     {
       "name": "皇綺羅",
+      "name_en": "KIRA SUMERAGI",
       "sex": "male",
       "height": "180cm",
       "weight": "65kg",
@@ -187,6 +210,7 @@
     },
     {
       "name": "帝ナギ",
+      "name_en": "NAGI MIKADO",
       "sex": "male",
       "height": "158cm",
       "weight": "45kg",
@@ -197,6 +221,7 @@
     },
     {
       "name": "鳳瑛二",
+      "name_en": "EIJI OTORI",
       "sex": "male",
       "height": "170cm",
       "weight": "56kg",
@@ -207,6 +232,7 @@
     },
     {
       "name": "桐生院ヴァン",
+      "name_en": "VAN KIRYUIN",
       "sex": "male",
       "height": "176cm",
       "weight": "62kg",
@@ -217,6 +243,7 @@
     },
     {
       "name": "日向大和",
+      "name_en": "YAMATO HYUGA",
       "sex": "male",
       "height": "188cm",
       "weight": "75kg",
@@ -227,6 +254,7 @@
     },
     {
       "name": "天草シオン",
+      "name_en": "SHION AMAKUSA",
       "sex": "male",
       "height": "174cm",
       "weight": "55kg",
@@ -237,22 +265,27 @@
     },
     {
       "name": "四ノ宮砂月",
+      "name_en": "SATSUKI SHINOMIYA",
       "sex": "male"
     },
     {
       "name": "聖川真衣",
+      "name_en": "MAI HIJIRIKAWA",
       "sex": "female"
     },
     {
       "name": "如月愛音",
+      "name_en": "AINE KISARAGI",
       "sex": "male"
     },
     {
       "name": "音波圭",
+      "name_en": "KEI OTONAMI",
       "sex": "male"
     },
     {
       "name": "片桐響",
+      "name_en": "HIBIKI KATAGIRI",
       "sex": "male"
     }
   ],
