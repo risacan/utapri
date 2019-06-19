@@ -306,22 +306,82 @@
   ],
   "songs": [
     {
-      "title": "雪月花",
-      "album": "Eternal Song CD",
+      "title": "愛を捧げよ 〜the secret Shangri-la〜",
+      "album": "愛を捧げよ 〜the secret Shangri-la〜",
       "singers": [
-        "一十木音也",
-        "聖川真斗",
-        "四ノ宮那月",
-        "一ノ瀬トキヤ",
-        "神宮寺レン",
-        "来栖翔",
-        "愛島セシル",
-        "寿嶺二",
-        "黒崎蘭丸",
-        "美風藍",
-        "カミュ"
+        "鳳瑛一",
+        "皇綺羅",
+        "帝ナギ",
+        "鳳瑛二",
+        "桐生院ヴァン",
+        "日向大和",
+        "天草シオン"
       ],
-      "date": "2018-11-21"
+      "group": "HE★VENS",
+      "date": "2019-04-03"
+    },
+    {
+      "title": "Lyrical Poetry",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "天草シオン"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "LIFE～with thanks～",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "鳳瑛一"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "恋の温度–melt into one–",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "皇綺羅"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "人生 on Sparking!",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "日向大和"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "熱愛中BANG×BANG×BANG!",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "桐生院ヴァン"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "Just You",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "鳳瑛二"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "絶対的★N・A・G・I",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "帝ナギ"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
     },
     {
       "title": "カレイドスコープ",
@@ -344,16 +404,6 @@
       "date": "2019-02-13"
     },
     {
-      "title": "Feather in the hand",
-      "album": "劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダムスペシャルユニットドラマCD 真斗・カミュ・瑛二",
-      "singers": [
-        "聖川真斗",
-        "カミュ",
-        "鳳瑛二"
-      ],
-      "date": "2019-01-16"
-    },
-    {
       "title": "相愛トロイメライ",
       "album": "劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダムスペシャルユニットドラマCD レン・嶺二・綺羅",
       "singers": [
@@ -362,6 +412,16 @@
         "皇綺羅"
       ],
       "date": "2019-01-30"
+    },
+    {
+      "title": "Feather in the hand",
+      "album": "劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダムスペシャルユニットドラマCD 真斗・カミュ・瑛二",
+      "singers": [
+        "聖川真斗",
+        "カミュ",
+        "鳳瑛二"
+      ],
+      "date": "2019-01-16"
     },
     {
       "title": "エゴイスティック",
@@ -384,95 +444,22 @@
       "date": "2018-12-12"
     },
     {
-      "title": "LIFE～with thanks～",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "title": "雪月花",
+      "album": "Eternal Song CD",
       "singers": [
-        "鳳瑛一"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "恋の温度–melt into one–",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "皇綺羅"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "絶対的★N・A・G・I",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "帝ナギ"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "Just You",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "鳳瑛二"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "熱愛中BANG×BANG×BANG!",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "桐生院ヴァン"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "人生 on Sparking!",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "日向大和"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "Lyrical Poetry",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "天草シオン"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-03-13"
-    },
-    {
-      "title": "愛を捧げよ 〜the secret Shangri-la〜",
-      "album": "愛を捧げよ 〜the secret Shangri-la〜",
-      "singers": [
-        "鳳瑛一",
-        "皇綺羅",
-        "帝ナギ",
-        "鳳瑛二",
-        "桐生院ヴァン",
-        "日向大和",
-        "天草シオン"
-      ],
-      "group": "HE★VENS",
-      "date": "2019-04-03"
-    },
-    {
-      "title": "FLY TO THE FUTURE",
-      "album": "FLY TO THE FUTURE",
-      "singers": [
+        "一十木音也",
+        "聖川真斗",
+        "四ノ宮那月",
+        "一ノ瀬トキヤ",
+        "神宮寺レン",
+        "来栖翔",
+        "愛島セシル",
         "寿嶺二",
         "黒崎蘭丸",
         "美風藍",
         "カミュ"
       ],
-      "group": "QUARTET NIGHT",
-      "date": "2018-08-01",
-      "itunes": "https://itunes.apple.com/jp/album/fly-to-the-future/1413043675?i=1413043676&uo=4"
+      "date": "2018-11-21"
     },
     {
       "title": "THE WORLD IS MINE",
@@ -486,6 +473,19 @@
       "group": "QUARTET NIGHT",
       "date": "2018-08-01",
       "itunes": "https://itunes.apple.com/jp/album/the-world-is-mine/1413043675?i=1413043677&uo=4"
+    },
+    {
+      "title": "FLY TO THE FUTURE",
+      "album": "FLY TO THE FUTURE",
+      "singers": [
+        "寿嶺二",
+        "黒崎蘭丸",
+        "美風藍",
+        "カミュ"
+      ],
+      "group": "QUARTET NIGHT",
+      "date": "2018-08-01",
+      "itunes": "https://itunes.apple.com/jp/album/fly-to-the-future/1413043675?i=1413043676&uo=4"
     },
     {
       "title": "リコリスの森",
@@ -553,18 +553,6 @@
       "date": "2018-01-17"
     },
     {
-      "title": "FORCE LIVE",
-      "album": "うたの☆プリンスさまっ♪ Shining LiveテーマソングCD",
-      "singers": [
-        "寿嶺二",
-        "黒崎蘭丸",
-        "美風藍",
-        "カミュ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/force-live/1305504754?i=1305504759&uo=4",
-      "date": "2017-11-15"
-    },
-    {
       "title": "Shining☆Romance",
       "album": "うたの☆プリンスさまっ♪ Shining LiveテーマソングCD",
       "singers": [
@@ -577,6 +565,18 @@
         "愛島セシル"
       ],
       "itunes": "https://itunes.apple.com/jp/album/shining-romance/1305504754?i=1305504758&uo=4",
+      "date": "2017-11-15"
+    },
+    {
+      "title": "FORCE LIVE",
+      "album": "うたの☆プリンスさまっ♪ Shining LiveテーマソングCD",
+      "singers": [
+        "寿嶺二",
+        "黒崎蘭丸",
+        "美風藍",
+        "カミュ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/force-live/1305504754?i=1305504759&uo=4",
       "date": "2017-11-15"
     },
     {
@@ -594,6 +594,16 @@
       "group": "HE★VENS",
       "itunes": "https://itunes.apple.com/jp/album/heaven-sky/1295510641?i=1295510650&uo=4",
       "date": "2017-11-01"
+    },
+    {
+      "title": "Superb Spirits",
+      "album": "うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow Stars CD",
+      "singers": [
+        "一ノ瀬トキヤ",
+        "神宮寺レン",
+        "来栖翔"
+      ],
+      "date": "2017-10-19"
     },
     {
       "title": "一緒にHang in there♪",
@@ -621,16 +631,6 @@
       "date": "2017-10-19"
     },
     {
-      "title": "Superb Spirits",
-      "album": "うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow Stars CD",
-      "singers": [
-        "一ノ瀬トキヤ",
-        "神宮寺レン",
-        "来栖翔"
-      ],
-      "date": "2017-10-19"
-    },
-    {
       "title": "WE ARE ST☆RISH!!",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター 6 封入特典CD",
       "singers": [
@@ -644,6 +644,15 @@
       ],
       "group": "ST☆RISH",
       "itunes": "https://itunes.apple.com/jp/album/we-are-st-rish-live-size/1194319461?i=1194319600&uo=4",
+      "date": "2017-05-24"
+    },
+    {
+      "title": "BE PROUD",
+      "album": "うたの☆プリンスさまっ♪ アイドルソング 蘭丸＆藍",
+      "singers": [
+        "黒崎蘭丸"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/be-proud/1230917640?i=1230918735&uo=4",
       "date": "2017-05-24"
     },
     {
@@ -666,21 +675,21 @@
       "date": "2017-05-24"
     },
     {
-      "title": "BE PROUD",
-      "album": "うたの☆プリンスさまっ♪ アイドルソング 蘭丸＆藍",
-      "singers": [
-        "黒崎蘭丸"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/be-proud/1230917640?i=1230918735&uo=4",
-      "date": "2017-05-24"
-    },
-    {
       "title": "オン・ユア・マーク！",
       "album": "うたの☆プリンスさまっ♪ アイドルソング 嶺二＆カミュ",
       "singers": [
         "寿嶺二"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%B3-%E3%83%A6%E3%82%A2-%E3%83%9E%E3%83%BC%E3%82%AF/1230918051?i=1230918057&uo=4",
+      "date": "2017-05-17"
+    },
+    {
+      "title": "Melting of snow",
+      "album": "うたの☆プリンスさまっ♪ アイドルソング 嶺二＆カミュ",
+      "singers": [
+        "カミュ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/melting-of-snow/1230918051?i=1230918058&uo=4",
       "date": "2017-05-17"
     },
     {
@@ -691,15 +700,6 @@
         "カミュ"
       ],
       "itunes": "https://itunes.apple.com/jp/album/killer-kiss/1230918051?i=1230918056&uo=4",
-      "date": "2017-05-17"
-    },
-    {
-      "title": "Melting of snow",
-      "album": "うたの☆プリンスさまっ♪ アイドルソング 嶺二＆カミュ",
-      "singers": [
-        "カミュ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/melting-of-snow/1230918051?i=1230918058&uo=4",
       "date": "2017-05-17"
     },
     {
@@ -729,22 +729,6 @@
       "date": "2017-01-11"
     },
     {
-      "title": "HE★VENLY PARADE",
-      "album": "不滅のインフェルノ",
-      "singers": [
-        "鳳瑛一",
-        "皇綺羅",
-        "帝ナギ",
-        "鳳瑛二",
-        "桐生院ヴァン",
-        "日向大和",
-        "天草シオン"
-      ],
-      "group": "HE★VENS",
-      "itunes": "https://itunes.apple.com/jp/album/he-venly-parade/1183605719?i=1183605726&uo=4",
-      "date": "2016-12-28"
-    },
-    {
       "title": "不滅のインフェルノ",
       "album": "不滅のインフェルノ",
       "singers": [
@@ -761,17 +745,20 @@
       "date": "2016-12-28"
     },
     {
-      "title": "God's S.T.A.R.",
-      "album": "God's S.T.A.R.",
+      "title": "HE★VENLY PARADE",
+      "album": "不滅のインフェルノ",
       "singers": [
-        "寿嶺二",
-        "黒崎蘭丸",
-        "美風藍",
-        "カミュ"
+        "鳳瑛一",
+        "皇綺羅",
+        "帝ナギ",
+        "鳳瑛二",
+        "桐生院ヴァン",
+        "日向大和",
+        "天草シオン"
       ],
-      "group": "QUARTET NIGHT",
-      "itunes": "https://itunes.apple.com/jp/album/gods-s-t-a-r/1182850806?i=1182851082&uo=4",
-      "date": "2016-12-21"
+      "group": "HE★VENS",
+      "itunes": "https://itunes.apple.com/jp/album/he-venly-parade/1183605719?i=1183605726&uo=4",
+      "date": "2016-12-28"
     },
     {
       "title": "KIZUNA",
@@ -784,6 +771,19 @@
       ],
       "group": "QUARTET NIGHT",
       "itunes": "https://itunes.apple.com/jp/album/kizuna/1182850806?i=1182851083&uo=4",
+      "date": "2016-12-21"
+    },
+    {
+      "title": "God's S.T.A.R.",
+      "album": "God's S.T.A.R.",
+      "singers": [
+        "寿嶺二",
+        "黒崎蘭丸",
+        "美風藍",
+        "カミュ"
+      ],
+      "group": "QUARTET NIGHT",
+      "itunes": "https://itunes.apple.com/jp/album/gods-s-t-a-r/1182850806?i=1182851082&uo=4",
       "date": "2016-12-21"
     },
     {
@@ -852,15 +852,6 @@
       "date": "2016-11-23"
     },
     {
-      "title": "You're mine!",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ",
-      "singers": [
-        "帝ナギ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/youre-mine/1174877788?i=1174878026&uo=4",
-      "date": "2016-11-23"
-    },
-    {
       "title": "Grown empathy",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ",
       "singers": [
@@ -871,12 +862,30 @@
       "date": "2016-11-23"
     },
     {
+      "title": "You're mine!",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ",
+      "singers": [
+        "帝ナギ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/youre-mine/1174877788?i=1174878026&uo=4",
+      "date": "2016-11-23"
+    },
+    {
       "title": "初恋をまた始めよう",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和",
       "singers": [
         "来栖翔"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%92%E3%81%BE%E3%81%9F%E5%A7%8B%E3%82%81%E3%82%88%E3%81%86/1169948441?i=1169948815&uo=4",
+      "date": "2016-11-2"
+    },
+    {
+      "title": "OVER THE TOP",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和",
+      "singers": [
+        "日向大和"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/over-the-top/1169948441?i=1169948817&uo=4",
       "date": "2016-11-2"
     },
     {
@@ -890,15 +899,6 @@
       "date": "2016-11-2"
     },
     {
-      "title": "OVER THE TOP",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和",
-      "singers": [
-        "日向大和"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/over-the-top/1169948441?i=1169948817&uo=4",
-      "date": "2016-11-2"
-    },
-    {
       "title": "Lovely Eyes",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン",
       "singers": [
@@ -906,15 +906,6 @@
         "桐生院ヴァン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/lovely-eyes/1174877599?i=1174877681&uo=4",
-      "date": "2016-11-16"
-    },
-    {
-      "title": "My cutie...Drive me crazy!",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン",
-      "singers": [
-        "桐生院ヴァン"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/my-cutie-drive-me-crazy/1174877599?i=1174877683&uo=4",
       "date": "2016-11-16"
     },
     {
@@ -927,12 +918,30 @@
       "date": "2016-11-16"
     },
     {
+      "title": "My cutie...Drive me crazy!",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン",
+      "singers": [
+        "桐生院ヴァン"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/my-cutie-drive-me-crazy/1174877599?i=1174877683&uo=4",
+      "date": "2016-11-16"
+    },
+    {
       "title": "導き光",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン",
       "singers": [
         "天草シオン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E5%B0%8E%E3%81%8D%E5%85%89/1169950154?i=1169950672&uo=4",
+      "date": "2016-11-09"
+    },
+    {
+      "title": "甘美なるアルカディア",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン",
+      "singers": [
+        "愛島セシル"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E7%94%98%E7%BE%8E%E3%81%AA%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/1169950154?i=1169950671&uo=4",
       "date": "2016-11-09"
     },
     {
@@ -946,15 +955,6 @@
       "date": "2016-11-09"
     },
     {
-      "title": "甘美なるアルカディア",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン",
-      "singers": [
-        "愛島セシル"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E7%94%98%E7%BE%8E%E3%81%AA%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/1169950154?i=1169950671&uo=4",
-      "date": "2016-11-09"
-    },
-    {
       "title": "Mighty Aura",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二",
       "singers": [
@@ -962,15 +962,6 @@
         "鳳瑛二"
       ],
       "itunes": "https://itunes.apple.com/jp/album/mighty-aura/1164858524?i=1164858539&uo=4",
-      "date": "2016-10-26"
-    },
-    {
-      "title": "Dreamer",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二",
-      "singers": [
-        "鳳瑛二"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/dreamer/1164858524?i=1164858541&uo=4",
       "date": "2016-10-26"
     },
     {
@@ -983,20 +974,13 @@
       "date": "2016-10-26"
     },
     {
-      "title": "マジLOVEレジェンドスター",
-      "album": "マジLOVEレジェンドスター",
+      "title": "Dreamer",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二",
       "singers": [
-        "一十木音也",
-        "聖川真斗",
-        "四ノ宮那月",
-        "一ノ瀬トキヤ",
-        "神宮寺レン",
-        "来栖翔",
-        "愛島セシル"
+        "鳳瑛二"
       ],
-      "group": "ST☆RISH",
-      "itunes": "https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%E3%82%B9%E3%82%BF%E3%83%BC/1156322073?i=1156322137&uo=4",
-      "date": "2016-10-05"
+      "itunes": "https://itunes.apple.com/jp/album/dreamer/1164858524?i=1164858541&uo=4",
+      "date": "2016-10-26"
     },
     {
       "title": "未来、夢、ありがとう…そして!",
@@ -1012,6 +996,22 @@
       ],
       "group": "ST☆RISH",
       "itunes": "https://itunes.apple.com/jp/album/%E6%9C%AA%E6%9D%A5-%E5%A4%A2-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-%E3%81%9D%E3%81%97%E3%81%A6/1156322073?i=1156322138&uo=4",
+      "date": "2016-10-05"
+    },
+    {
+      "title": "マジLOVEレジェンドスター",
+      "album": "マジLOVEレジェンドスター",
+      "singers": [
+        "一十木音也",
+        "聖川真斗",
+        "四ノ宮那月",
+        "一ノ瀬トキヤ",
+        "神宮寺レン",
+        "来栖翔",
+        "愛島セシル"
+      ],
+      "group": "ST☆RISH",
+      "itunes": "https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%E3%82%B9%E3%82%BF%E3%83%BC/1156322073?i=1156322137&uo=4",
       "date": "2016-10-05"
     },
     {
@@ -1248,15 +1248,6 @@
       "date": "2015-05-13"
     },
     {
-      "title": "Mellow×2 Chu",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル",
-      "singers": [
-        "神宮寺レン"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/mellow-2-chu/990197121?i=990197675&uo=4",
-      "date": "2015-05-08"
-    },
-    {
       "title": "Code:T.V.U",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル",
       "singers": [
@@ -1286,13 +1277,13 @@
       "date": "2015-05-08"
     },
     {
-      "title": "ムネノコドウ",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　美風藍",
+      "title": "Mellow×2 Chu",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル",
       "singers": [
-        "美風藍"
+        "神宮寺レン"
       ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%83%A0%E3%83%8D%E3%83%8E%E3%82%B3%E3%83%89%E3%82%A6/989105638?i=989105641&uo=4",
-      "date": "2015-04-29"
+      "itunes": "https://itunes.apple.com/jp/album/mellow-2-chu/990197121?i=990197675&uo=4",
+      "date": "2015-05-08"
     },
     {
       "title": "Innocent Wind",
@@ -1304,14 +1295,13 @@
       "date": "2015-04-29"
     },
     {
-      "title": "EMOTIONAL LIFE",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月",
+      "title": "ムネノコドウ",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　美風藍",
       "singers": [
-        "一十木音也",
-        "四ノ宮那月"
+        "美風藍"
       ],
-      "itunes": "https://itunes.apple.com/jp/album/emotional-life/988298435?i=988298437&uo=4",
-      "date": "2015-04-22"
+      "itunes": "https://itunes.apple.com/jp/album/%E3%83%A0%E3%83%8D%E3%83%8E%E3%82%B3%E3%83%89%E3%82%A6/989105638?i=989105641&uo=4",
+      "date": "2015-04-29"
     },
     {
       "title": "The New World",
@@ -1320,6 +1310,16 @@
         "四ノ宮那月"
       ],
       "itunes": "https://itunes.apple.com/jp/album/the-new-world/988298435?i=988298439&uo=4",
+      "date": "2015-04-22"
+    },
+    {
+      "title": "EMOTIONAL LIFE",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月",
+      "singers": [
+        "一十木音也",
+        "四ノ宮那月"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/emotional-life/988298435?i=988298437&uo=4",
       "date": "2015-04-22"
     },
     {
@@ -1364,18 +1364,6 @@
       "date": "2015-04-08"
     },
     {
-      "title": "You're my life",
-      "album": "うたの☆プリンスさまっ♪ カルテットアイドルソング",
-      "singers": [
-        "寿嶺二",
-        "黒崎蘭丸",
-        "美風藍",
-        "カミュ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/youre-my-life/910924469?i=910924535&uo=4",
-      "date": "2014-08-27"
-    },
-    {
       "title": "マリアージュ",
       "album": "うたの☆プリンスさまっ♪ カルテットアイドルソング",
       "singers": [
@@ -1385,6 +1373,18 @@
         "カミュ"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5/910924469?i=910924534&uo=4",
+      "date": "2014-08-27"
+    },
+    {
+      "title": "You're my life",
+      "album": "うたの☆プリンスさまっ♪ カルテットアイドルソング",
+      "singers": [
+        "寿嶺二",
+        "黒崎蘭丸",
+        "美風藍",
+        "カミュ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/youre-my-life/910924469?i=910924535&uo=4",
       "date": "2014-08-27"
     },
     {
@@ -1906,21 +1906,21 @@
       "date": "2011-09-07"
     },
     {
-      "title": "My Little Little Girl",
-      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ",
-      "singers": [
-        "一ノ瀬トキヤ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/my-little-little-girl/627419927?i=627420154&uo=4",
-      "date": "2011-08-31"
-    },
-    {
       "title": "七色のコンパス",
       "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ",
       "singers": [
         "一ノ瀬トキヤ"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E4%B8%83%E8%89%B2%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/627419927?i=627420153&uo=4",
+      "date": "2011-08-31"
+    },
+    {
+      "title": "My Little Little Girl",
+      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ",
+      "singers": [
+        "一ノ瀬トキヤ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/my-little-little-girl/627419927?i=627420154&uo=4",
       "date": "2011-08-31"
     },
     {
@@ -1960,21 +1960,21 @@
       "date": "2011-08-17"
     },
     {
-      "title": "世界の果てまでBelieve Heart",
-      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング神宮寺レン",
-      "singers": [
-        "神宮寺レン"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%BE%E3%81%A7believe-heart/627415805?i=627416650&uo=4",
-      "date": "2011-08-10"
-    },
-    {
       "title": "Dear... Burning my Lady!",
       "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング神宮寺レン",
       "singers": [
         "神宮寺レン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/dear-burning-my-lady/627415805?i=627416651&uo=4",
+      "date": "2011-08-10"
+    },
+    {
+      "title": "世界の果てまでBelieve Heart",
+      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング神宮寺レン",
+      "singers": [
+        "神宮寺レン"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%BE%E3%81%A7believe-heart/627415805?i=627416650&uo=4",
       "date": "2011-08-10"
     },
     {
@@ -2113,15 +2113,6 @@
       "date": "2010-12-08"
     },
     {
-      "title": "コズミックRUNNER",
-      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(3) アンドロメダでクチヅケを / コズミックRUNNER",
-      "singers": [
-        "来栖翔"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AFrunner/627421388?i=627421472&uo=4",
-      "date": "2010-11-10"
-    },
-    {
       "title": "アンドロメダでクチヅケを",
       "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(3) アンドロメダでクチヅケを / コズミックRUNNER",
       "singers": [
@@ -2131,13 +2122,13 @@
       "date": "2010-11-10"
     },
     {
-      "title": "BLUE×PRISM HEART",
-      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS",
+      "title": "コズミックRUNNER",
+      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(3) アンドロメダでクチヅケを / コズミックRUNNER",
       "singers": [
-        "聖川真斗"
+        "来栖翔"
       ],
-      "itunes": "https://itunes.apple.com/jp/album/blue-prism-heart/627415916?i=627416233&uo=4",
-      "date": "2010-10-27"
+      "itunes": "https://itunes.apple.com/jp/album/%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AFrunner/627421388?i=627421472&uo=4",
+      "date": "2010-11-10"
     },
     {
       "title": "RED HOT×LOVE MINDS",
@@ -2146,6 +2137,15 @@
         "神宮寺レン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/red-hot-love-minds/627415916?i=627416237&uo=4",
+      "date": "2010-10-27"
+    },
+    {
+      "title": "BLUE×PRISM HEART",
+      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS",
+      "singers": [
+        "聖川真斗"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/blue-prism-heart/627415916?i=627416233&uo=4",
       "date": "2010-10-27"
     },
     {
@@ -2212,21 +2212,21 @@
       "date": "2010-02-24"
     },
     {
-      "title": "オレサマ愛歌",
-      "album": "オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌",
-      "singers": [
-        "来栖翔"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AC%E3%82%B5%E3%83%9E%E6%84%9B%E6%AD%8C/627420107?i=627420204&uo=4",
-      "date": "2010-01-27"
-    },
-    {
       "title": "サザンクロス恋唄",
       "album": "オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌",
       "singers": [
         "四ノ宮那月"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E6%81%8B%E5%94%84/627420107?i=627420200&uo=4",
+      "date": "2010-01-27"
+    },
+    {
+      "title": "オレサマ愛歌",
+      "album": "オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌",
+      "singers": [
+        "来栖翔"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AC%E3%82%B5%E3%83%9E%E6%84%9B%E6%AD%8C/627420107?i=627420204&uo=4",
       "date": "2010-01-27"
     },
     {
