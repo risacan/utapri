@@ -1,0 +1,65 @@
+---
+$schema: "http://json-schema.org/draft-04/schema#"
+title: "utapri"
+type: "object"
+required:
+  - "characters"
+  - "games"
+  - "songs"
+properties:
+  characters:
+    type: "array"
+    items:
+      $ref: "#/definitions/character"
+  games:
+    type: "array"
+    items:
+      type: "string"
+  songs:
+    type: "array"
+    items:
+      $ref: "#/definitions/song"
+definitions:
+  character:
+    type: "object"
+    required:
+      - name
+      - name_en
+      - sex
+    properties:
+      name:
+        type: "string"
+      name_en:
+        type: "string"
+      sex:
+        type: "string"
+      height:
+        type: "string"
+      weight:
+        type: "string"
+      birthday:
+        type: "string"
+      blood_type:
+         type: "string"
+      group:
+         type: "string"
+      color_code:
+         type: "string"
+  song:
+    type: "object"
+    required:
+      - title
+      - album
+      - singers
+      - date
+    properties:
+      title:
+        type: "string"
+      album:
+        type: "string"
+      singers:
+        type: "array"
+      group:
+        type: "string"
+      date:
+        type: "string"
