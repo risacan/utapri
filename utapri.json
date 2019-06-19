@@ -384,15 +384,63 @@
       "date": "2018-12-12"
     },
     {
-      "title": "アンセム フォー ジ エンジェル",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム",
+      "title": "LIFE～with thanks～",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
       "singers": [
-        "鳳瑛一",
-        "皇綺羅",
-        "帝ナギ",
-        "鳳瑛二",
-        "桐生院ヴァン",
-        "日向大和",
+        "鳳瑛一"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "恋の温度–melt into one–",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "皇綺羅"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "絶対的★N・A・G・I",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "帝ナギ"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "Just You",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "鳳瑛二"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "熱愛中BANG×BANG×BANG!",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "桐生院ヴァン"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "人生 on Sparking!",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "日向大和"
+      ],
+      "group": "HE★VENS",
+      "date": "2019-03-13"
+    },
+    {
+      "title": "Lyrical Poetry",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
         "天草シオン"
       ],
       "group": "HE★VENS",
