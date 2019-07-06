@@ -423,14 +423,6 @@
       "date": "2019-04-03"
     },
     {
-      "title": "Lyrical Poetry",
-      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
-      "singers": [
-        "天草シオン"
-      ],
-      "date": "2019-03-13"
-    },
-    {
       "title": "LIFE～with thanks～",
       "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
       "singers": [
@@ -475,6 +467,14 @@
       "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
       "singers": [
         "帝ナギ"
+      ],
+      "date": "2019-03-13"
+    },
+    {
+      "title": "Lyrical Poetry",
+      "album": "うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル",
+      "singers": [
+        "天草シオン"
       ],
       "date": "2019-03-13"
     },
@@ -594,22 +594,6 @@
       "date": "2018-02-28"
     },
     {
-      "title": "ウルトラブラスト",
-      "album": "ウルトラブラスト",
-      "singers": [
-        "一十木音也",
-        "聖川真斗",
-        "四ノ宮那月",
-        "一ノ瀬トキヤ",
-        "神宮寺レン",
-        "来栖翔",
-        "愛島セシル"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88/1342532737?i=1342534216&uo=4",
-      "group": "ST☆RISH",
-      "date": "2018-02-14"
-    },
-    {
       "title": "ファンタジック☆プレリュード",
       "album": "ウルトラブラスト",
       "singers": [
@@ -622,6 +606,22 @@
         "愛島セシル"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89/1342532737?i=1342534217&uo=4",
+      "group": "ST☆RISH",
+      "date": "2018-02-14"
+    },
+    {
+      "title": "ウルトラブラスト",
+      "album": "ウルトラブラスト",
+      "singers": [
+        "一十木音也",
+        "聖川真斗",
+        "四ノ宮那月",
+        "一ノ瀬トキヤ",
+        "神宮寺レン",
+        "来栖翔",
+        "愛島セシル"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88/1342532737?i=1342534216&uo=4",
       "group": "ST☆RISH",
       "date": "2018-02-14"
     },
@@ -882,16 +882,6 @@
       "date": "2016-12-21"
     },
     {
-      "title": "NEXT DOOR",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一",
-      "singers": [
-        "一十木音也",
-        "鳳瑛一"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/next-door/1179734228?i=1179734283&uo=4",
-      "date": "2016-12-07"
-    },
-    {
       "title": "STATE OF PERFECTION",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一",
       "singers": [
@@ -910,12 +900,31 @@
       "date": "2016-12-07"
     },
     {
+      "title": "NEXT DOOR",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一",
+      "singers": [
+        "一十木音也",
+        "鳳瑛一"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/next-door/1179734228?i=1179734283&uo=4",
+      "date": "2016-12-07"
+    },
+    {
       "title": "Dazzling darling",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅",
       "singers": [
         "皇綺羅"
       ],
       "itunes": "https://itunes.apple.com/jp/album/dazzling-darling/1177478350?i=1177478455&uo=4",
+      "date": "2016-11-30"
+    },
+    {
+      "title": "I swear...",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅",
+      "singers": [
+        "聖川真斗"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/i-swear/1177478350?i=1177478454&uo=4",
       "date": "2016-11-30"
     },
     {
@@ -929,21 +938,21 @@
       "date": "2016-11-30"
     },
     {
-      "title": "I swear...",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅",
-      "singers": [
-        "聖川真斗"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/i-swear/1177478350?i=1177478454&uo=4",
-      "date": "2016-11-30"
-    },
-    {
       "title": "Tears in love",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ",
       "singers": [
         "四ノ宮那月"
       ],
       "itunes": "https://itunes.apple.com/jp/album/tears-in-love/1174877788?i=1174878025&uo=4",
+      "date": "2016-11-23"
+    },
+    {
+      "title": "You're mine!",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ",
+      "singers": [
+        "帝ナギ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/youre-mine/1174877788?i=1174878026&uo=4",
       "date": "2016-11-23"
     },
     {
@@ -957,30 +966,12 @@
       "date": "2016-11-23"
     },
     {
-      "title": "You're mine!",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ",
-      "singers": [
-        "帝ナギ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/youre-mine/1174877788?i=1174878026&uo=4",
-      "date": "2016-11-23"
-    },
-    {
       "title": "初恋をまた始めよう",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和",
       "singers": [
         "来栖翔"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%92%E3%81%BE%E3%81%9F%E5%A7%8B%E3%82%81%E3%82%88%E3%81%86/1169948441?i=1169948815&uo=4",
-      "date": "2016-11-2"
-    },
-    {
-      "title": "OVER THE TOP",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和",
-      "singers": [
-        "日向大和"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/over-the-top/1169948441?i=1169948817&uo=4",
       "date": "2016-11-2"
     },
     {
@@ -994,6 +985,15 @@
       "date": "2016-11-2"
     },
     {
+      "title": "OVER THE TOP",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和",
+      "singers": [
+        "日向大和"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/over-the-top/1169948441?i=1169948817&uo=4",
+      "date": "2016-11-2"
+    },
+    {
       "title": "Lovely Eyes",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン",
       "singers": [
@@ -1001,15 +1001,6 @@
         "桐生院ヴァン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/lovely-eyes/1174877599?i=1174877681&uo=4",
-      "date": "2016-11-16"
-    },
-    {
-      "title": "Give Me True Love",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン",
-      "singers": [
-        "神宮寺レン"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/give-me-true-love/1174877599?i=1174877682&uo=4",
       "date": "2016-11-16"
     },
     {
@@ -1022,21 +1013,21 @@
       "date": "2016-11-16"
     },
     {
+      "title": "Give Me True Love",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン",
+      "singers": [
+        "神宮寺レン"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/give-me-true-love/1174877599?i=1174877682&uo=4",
+      "date": "2016-11-16"
+    },
+    {
       "title": "導き光",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン",
       "singers": [
         "天草シオン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E5%B0%8E%E3%81%8D%E5%85%89/1169950154?i=1169950672&uo=4",
-      "date": "2016-11-09"
-    },
-    {
-      "title": "甘美なるアルカディア",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン",
-      "singers": [
-        "愛島セシル"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E7%94%98%E7%BE%8E%E3%81%AA%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/1169950154?i=1169950671&uo=4",
       "date": "2016-11-09"
     },
     {
@@ -1050,6 +1041,15 @@
       "date": "2016-11-09"
     },
     {
+      "title": "甘美なるアルカディア",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン",
+      "singers": [
+        "愛島セシル"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E7%94%98%E7%BE%8E%E3%81%AA%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/1169950154?i=1169950671&uo=4",
+      "date": "2016-11-09"
+    },
+    {
       "title": "Mighty Aura",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二",
       "singers": [
@@ -1057,15 +1057,6 @@
         "鳳瑛二"
       ],
       "itunes": "https://itunes.apple.com/jp/album/mighty-aura/1164858524?i=1164858539&uo=4",
-      "date": "2016-10-26"
-    },
-    {
-      "title": "Be the light!",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二",
-      "singers": [
-        "一ノ瀬トキヤ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/be-the-light/1164858524?i=1164858540&uo=4",
       "date": "2016-10-26"
     },
     {
@@ -1078,20 +1069,13 @@
       "date": "2016-10-26"
     },
     {
-      "title": "未来、夢、ありがとう…そして!",
-      "album": "マジLOVEレジェンドスター",
+      "title": "Be the light!",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二",
       "singers": [
-        "一十木音也",
-        "聖川真斗",
-        "四ノ宮那月",
-        "一ノ瀬トキヤ",
-        "神宮寺レン",
-        "来栖翔",
-        "愛島セシル"
+        "一ノ瀬トキヤ"
       ],
-      "group": "ST☆RISH",
-      "itunes": "https://itunes.apple.com/jp/album/%E6%9C%AA%E6%9D%A5-%E5%A4%A2-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-%E3%81%9D%E3%81%97%E3%81%A6/1156322073?i=1156322138&uo=4",
-      "date": "2016-10-05"
+      "itunes": "https://itunes.apple.com/jp/album/be-the-light/1164858524?i=1164858540&uo=4",
+      "date": "2016-10-26"
     },
     {
       "title": "マジLOVEレジェンドスター",
@@ -1107,6 +1091,22 @@
       ],
       "group": "ST☆RISH",
       "itunes": "https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%E3%82%B9%E3%82%BF%E3%83%BC/1156322073?i=1156322137&uo=4",
+      "date": "2016-10-05"
+    },
+    {
+      "title": "未来、夢、ありがとう…そして!",
+      "album": "マジLOVEレジェンドスター",
+      "singers": [
+        "一十木音也",
+        "聖川真斗",
+        "四ノ宮那月",
+        "一ノ瀬トキヤ",
+        "神宮寺レン",
+        "来栖翔",
+        "愛島セシル"
+      ],
+      "group": "ST☆RISH",
+      "itunes": "https://itunes.apple.com/jp/album/%E6%9C%AA%E6%9D%A5-%E5%A4%A2-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-%E3%81%9D%E3%81%97%E3%81%A6/1156322073?i=1156322138&uo=4",
       "date": "2016-10-05"
     },
     {
@@ -1147,21 +1147,21 @@
       "date": "2016-01-13"
     },
     {
-      "title": "Hurray×2ドリーマーズ",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　寿嶺二",
-      "singers": [
-        "寿嶺二"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/hurray-2-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA/1001478902?i=1001479165&uo=4",
-      "date": "2015-6-3"
-    },
-    {
       "title": "NEVER...",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　寿嶺二",
       "singers": [
         "寿嶺二"
       ],
       "itunes": "https://itunes.apple.com/jp/album/never/1001478902?i=1001479164&uo=4",
+      "date": "2015-6-3"
+    },
+    {
+      "title": "Hurray×2ドリーマーズ",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　寿嶺二",
+      "singers": [
+        "寿嶺二"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/hurray-2-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA/1001478902?i=1001479165&uo=4",
       "date": "2015-6-3"
     },
     {
@@ -1381,15 +1381,6 @@
       "date": "2015-05-08"
     },
     {
-      "title": "Innocent Wind",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　美風藍",
-      "singers": [
-        "美風藍"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/innocent-wind/989105638?i=989105640&uo=4",
-      "date": "2015-04-29"
-    },
-    {
       "title": "ムネノコドウ",
       "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　美風藍",
       "singers": [
@@ -1399,13 +1390,13 @@
       "date": "2015-04-29"
     },
     {
-      "title": "The New World",
-      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月",
+      "title": "Innocent Wind",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　美風藍",
       "singers": [
-        "四ノ宮那月"
+        "美風藍"
       ],
-      "itunes": "https://itunes.apple.com/jp/album/the-new-world/988298435?i=988298439&uo=4",
-      "date": "2015-04-22"
+      "itunes": "https://itunes.apple.com/jp/album/innocent-wind/989105638?i=989105640&uo=4",
+      "date": "2015-04-29"
     },
     {
       "title": "EMOTIONAL LIFE",
@@ -1424,6 +1415,15 @@
         "一十木音也"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/988298435?i=988298438&uo=4",
+      "date": "2015-04-22"
+    },
+    {
+      "title": "The New World",
+      "album": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月",
+      "singers": [
+        "四ノ宮那月"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/the-new-world/988298435?i=988298439&uo=4",
       "date": "2015-04-22"
     },
     {
@@ -1579,6 +1579,17 @@
       "date": "2014-01-29"
     },
     {
+      "title": "マスカレイドミラージュ",
+      "album": "うたの☆プリンスさまっ♪劇団シャイニング マスカレイドミラージュ",
+      "singers": [
+        "四ノ宮那月",
+        "寿嶺二",
+        "美風藍"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0-%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5/1074603759?i=1074603821&uo=4",
+      "date": "2013-12-25"
+    },
+    {
       "title": "Shining Star Xmas",
       "album": "うたの☆プリンスさまっ♪マジLOVE2000％ 7 封入特典CD",
       "singers": [
@@ -1594,17 +1605,6 @@
         "美風藍",
         "カミュ"
       ],
-      "date": "2013-12-25"
-    },
-    {
-      "title": "マスカレイドミラージュ",
-      "album": "うたの☆プリンスさまっ♪劇団シャイニング マスカレイドミラージュ",
-      "singers": [
-        "四ノ宮那月",
-        "寿嶺二",
-        "美風藍"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0-%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5/1074603759?i=1074603821&uo=4",
       "date": "2013-12-25"
     },
     {
@@ -1895,21 +1895,21 @@
       "date": "2012-09-05"
     },
     {
-      "title": "溺愛テンプテーション",
-      "album": "うたの☆プリンスさまっ♪ アイドルソング 嶺二＆藍",
-      "singers": [
-        "寿嶺二"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E6%BA%BA%E6%84%9B%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/627410203?i=627410293&uo=4",
-      "date": "2012-08-22"
-    },
-    {
       "title": "WinterBlossom",
       "album": "うたの☆プリンスさまっ♪ アイドルソング 嶺二＆藍",
       "singers": [
         "美風藍"
       ],
       "itunes": "https://itunes.apple.com/jp/album/winterblossom/627410203?i=627410296&uo=4",
+      "date": "2012-08-22"
+    },
+    {
+      "title": "溺愛テンプテーション",
+      "album": "うたの☆プリンスさまっ♪ アイドルソング 嶺二＆藍",
+      "singers": [
+        "寿嶺二"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E6%BA%BA%E6%84%9B%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/627410203?i=627410293&uo=4",
       "date": "2012-08-22"
     },
     {
@@ -2001,21 +2001,21 @@
       "date": "2011-09-07"
     },
     {
-      "title": "七色のコンパス",
-      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ",
-      "singers": [
-        "一ノ瀬トキヤ"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E4%B8%83%E8%89%B2%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/627419927?i=627420153&uo=4",
-      "date": "2011-08-31"
-    },
-    {
       "title": "My Little Little Girl",
       "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ",
       "singers": [
         "一ノ瀬トキヤ"
       ],
       "itunes": "https://itunes.apple.com/jp/album/my-little-little-girl/627419927?i=627420154&uo=4",
+      "date": "2011-08-31"
+    },
+    {
+      "title": "七色のコンパス",
+      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ",
+      "singers": [
+        "一ノ瀬トキヤ"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E4%B8%83%E8%89%B2%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/627419927?i=627420153&uo=4",
       "date": "2011-08-31"
     },
     {
@@ -2055,21 +2055,21 @@
       "date": "2011-08-17"
     },
     {
-      "title": "Dear... Burning my Lady!",
-      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング神宮寺レン",
-      "singers": [
-        "神宮寺レン"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/dear-burning-my-lady/627415805?i=627416651&uo=4",
-      "date": "2011-08-10"
-    },
-    {
       "title": "世界の果てまでBelieve Heart",
       "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング神宮寺レン",
       "singers": [
         "神宮寺レン"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%BE%E3%81%A7believe-heart/627415805?i=627416650&uo=4",
+      "date": "2011-08-10"
+    },
+    {
+      "title": "Dear... Burning my Lady!",
+      "album": "うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング神宮寺レン",
+      "singers": [
+        "神宮寺レン"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/dear-burning-my-lady/627415805?i=627416651&uo=4",
       "date": "2011-08-10"
     },
     {
@@ -2208,15 +2208,6 @@
       "date": "2010-12-08"
     },
     {
-      "title": "アンドロメダでクチヅケを",
-      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(3) アンドロメダでクチヅケを / コズミックRUNNER",
-      "singers": [
-        "四ノ宮那月"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%81%A7%E3%82%AF%E3%83%81%E3%83%85%E3%82%B1%E3%82%92/627421388?i=627421469&uo=4",
-      "date": "2010-11-10"
-    },
-    {
       "title": "コズミックRUNNER",
       "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(3) アンドロメダでクチヅケを / コズミックRUNNER",
       "singers": [
@@ -2226,13 +2217,13 @@
       "date": "2010-11-10"
     },
     {
-      "title": "RED HOT×LOVE MINDS",
-      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS",
+      "title": "アンドロメダでクチヅケを",
+      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(3) アンドロメダでクチヅケを / コズミックRUNNER",
       "singers": [
-        "神宮寺レン"
+        "四ノ宮那月"
       ],
-      "itunes": "https://itunes.apple.com/jp/album/red-hot-love-minds/627415916?i=627416237&uo=4",
-      "date": "2010-10-27"
+      "itunes": "https://itunes.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%81%A7%E3%82%AF%E3%83%81%E3%83%85%E3%82%B1%E3%82%92/627421388?i=627421469&uo=4",
+      "date": "2010-11-10"
     },
     {
       "title": "BLUE×PRISM HEART",
@@ -2241,6 +2232,15 @@
         "聖川真斗"
       ],
       "itunes": "https://itunes.apple.com/jp/album/blue-prism-heart/627415916?i=627416233&uo=4",
+      "date": "2010-10-27"
+    },
+    {
+      "title": "RED HOT×LOVE MINDS",
+      "album": "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS",
+      "singers": [
+        "神宮寺レン"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/red-hot-love-minds/627415916?i=627416237&uo=4",
       "date": "2010-10-27"
     },
     {
@@ -2307,21 +2307,21 @@
       "date": "2010-02-24"
     },
     {
-      "title": "サザンクロス恋唄",
-      "album": "オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌",
-      "singers": [
-        "四ノ宮那月"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E6%81%8B%E5%94%84/627420107?i=627420200&uo=4",
-      "date": "2010-01-27"
-    },
-    {
       "title": "オレサマ愛歌",
       "album": "オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌",
       "singers": [
         "来栖翔"
       ],
       "itunes": "https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AC%E3%82%B5%E3%83%9E%E6%84%9B%E6%AD%8C/627420107?i=627420204&uo=4",
+      "date": "2010-01-27"
+    },
+    {
+      "title": "サザンクロス恋唄",
+      "album": "オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌",
+      "singers": [
+        "四ノ宮那月"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E6%81%8B%E5%94%84/627420107?i=627420200&uo=4",
       "date": "2010-01-27"
     },
     {
@@ -2343,21 +2343,21 @@
       "date": "2009-12-23"
     },
     {
-      "title": "TRUST☆MY DREAM",
-      "album": "オーディションソング(1) TRUST☆MY DREAM / BELIEVE☆MY VOICE",
-      "singers": [
-        "一十木音也"
-      ],
-      "itunes": "https://itunes.apple.com/jp/album/trust-my-dream/627415519?i=627415671&uo=4",
-      "date": "2009-11-26"
-    },
-    {
       "title": "BELIEVE☆MY VOICE",
       "album": "オーディションソング(1) TRUST☆MY DREAM / BELIEVE☆MY VOICE",
       "singers": [
         "一ノ瀬トキヤ"
       ],
       "itunes": "https://itunes.apple.com/jp/album/believe-my-voice/627415519?i=627415672&uo=4",
+      "date": "2009-11-26"
+    },
+    {
+      "title": "TRUST☆MY DREAM",
+      "album": "オーディションソング(1) TRUST☆MY DREAM / BELIEVE☆MY VOICE",
+      "singers": [
+        "一十木音也"
+      ],
+      "itunes": "https://itunes.apple.com/jp/album/trust-my-dream/627415519?i=627415671&uo=4",
       "date": "2009-11-26"
     }
   ]
