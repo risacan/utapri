@@ -17,8 +17,8 @@
       "blood_type": "O",
       "group": "ST☆RISH",
       "color_code": "#e5031a",
-      "born_in": "東京都",
-      "born_in_en": "Tokyo"
+      "birthplace": "東京都",
+      "birthplace_en": "Tokyo"
     },
     {
       "name": "四ノ宮那月",
@@ -30,8 +30,8 @@
       "blood_type": "AB",
       "group": "ST☆RISH",
       "color_code": "#f8e400",
-      "born_in": "北海道",
-      "born_in_en": "Hokkaido"
+      "birthplace": "北海道",
+      "birthplace_en": "Hokkaido"
     },
     {
       "name": "聖川真斗",
@@ -43,8 +43,8 @@
       "blood_type": "A",
       "group": "ST☆RISH",
       "color_code": "#005bab",
-      "born_in": "京都府",
-      "born_in_en": "Kyoto"
+      "birthplace": "京都府",
+      "birthplace_en": "Kyoto"
     },
     {
       "name": "一ノ瀬トキヤ",
@@ -56,8 +56,8 @@
       "blood_type": "A",
       "group": "ST☆RISH",
       "color_code": "#733fca",
-      "born_in": "福岡県",
-      "born_in_en": "Fukuoka"
+      "birthplace": "福岡県",
+      "birthplace_en": "Fukuoka"
     },
     {
       "name": "来栖翔",
@@ -69,8 +69,8 @@
       "blood_type": "O",
       "group": "ST☆RISH",
       "color_code": "#ed3a89",
-      "born_in": "愛知県",
-      "born_in_en": "Aichi"
+      "birthplace": "愛知県",
+      "birthplace_en": "Aichi"
     },
     {
       "name": "神宮寺レン",
@@ -82,8 +82,8 @@
       "blood_type": "B",
       "group": "ST☆RISH",
       "color_code": "#ee7800",
-      "born_in": "神奈川県",
-      "born_in_en": "Kanagawa"
+      "birthplace": "神奈川県",
+      "birthplace_en": "Kanagawa"
     },
     {
       "name": "愛島セシル",
@@ -94,8 +94,8 @@
       "birthday": "10月31日",
       "group": "ST☆RISH",
       "color_code": "#75c635",
-      "born_in": "アグナパレス",
-      "born_in_en": "Agna Palace"
+      "birthplace": "アグナパレス",
+      "birthplace_en": "Agna Palace"
     },
     {
       "name": "月宮林檎",
@@ -105,8 +105,8 @@
       "weight": "56kg",
       "birthday": "9月15日",
       "blood_type": "AB",
-      "born_in": "長野県",
-      "born_in_en": "Nagano"
+      "birthplace": "長野県",
+      "birthplace_en": "Nagano"
     },
     {
       "name": "日向龍也",
@@ -116,8 +116,8 @@
       "weight": "85kg",
       "birthday": "5月15日",
       "blood_type": "A",
-      "born_in": "千葉県",
-      "born_in_en": "Chiba"
+      "birthplace": "千葉県",
+      "birthplace_en": "Chiba"
     },
     {
       "name": "シャイニング早乙女",
@@ -137,8 +137,8 @@
       "birthday": "7月13日",
       "blood_type": "B",
       "group": "QUARTET NIGHT",
-      "born_in": "埼玉県",
-      "born_in_en": "Saitama"
+      "birthplace": "埼玉県",
+      "birthplace_en": "Saitama"
     },
     {
       "name": "黒崎蘭丸",
@@ -149,8 +149,8 @@
       "birthday": "9月29日",
       "blood_type": "A",
       "group": "QUARTET NIGHT",
-      "born_in": "宮崎県",
-      "born_in_en": "Miyazaki"
+      "birthplace": "宮崎県",
+      "birthplace_en": "Miyazaki"
     },
     {
       "name": "美風藍",
@@ -169,8 +169,8 @@
       "birthday": "1月23日",
       "blood_type": "O",
       "group": "QUARTET NIGHT",
-      "born_in": "Silk Palace",
-      "born_in_en": "シルクパレス"
+      "birthplace": "Silk Palace",
+      "birthplace_en": "シルクパレス"
     },
     {
       "name": "渋谷友千香",
@@ -220,8 +220,8 @@
       "blood_type": "AB",
       "group": "HE★VENS",
       "color_code": "#e5031a",
-      "born_in": "山梨県",
-      "born_in_en": "Yamanashi"
+      "birthplace": "山梨県",
+      "birthplace_en": "Yamanashi"
     },
     {
       "name": "皇綺羅",
@@ -233,8 +233,8 @@
       "blood_type": "O",
       "group": "HE★VENS",
       "color_code": "#005bab",
-      "born_in": "高知県",
-      "born_in_en": "Kochi"
+      "birthplace": "高知県",
+      "birthplace_en": "Kochi"
     },
     {
       "name": "帝ナギ",
@@ -246,8 +246,8 @@
       "blood_type": "A",
       "group": "HE★VENS",
       "color_code": "#f8e400",
-      "born_in": "石川県",
-      "born_in_en": "Ishikawa"
+      "birthplace": "石川県",
+      "birthplace_en": "Ishikawa"
     },
     {
       "name": "鳳瑛二",
@@ -259,8 +259,8 @@
       "blood_type": "B",
       "group": "HE★VENS",
       "color_code": "#733fca",
-      "born_in": "山梨県",
-      "born_in_en": "Yamanashi"
+      "birthplace": "山梨県",
+      "birthplace_en": "Yamanashi"
     },
     {
       "name": "桐生院ヴァン",
@@ -272,8 +272,8 @@
       "blood_type": "O",
       "group": "HE★VENS",
       "color_code": "#ee7800",
-      "born_in": "兵庫県",
-      "born_in_en": "Hyogo"
+      "birthplace": "兵庫県",
+      "birthplace_en": "Hyogo"
     },
     {
       "name": "日向大和",
@@ -285,8 +285,8 @@
       "blood_type": "B",
       "group": "HE★VENS",
       "color_code": "#ed3a89",
-      "born_in": "千葉県",
-      "born_in_en": "Chiba"
+      "birthplace": "千葉県",
+      "birthplace_en": "Chiba"
     },
     {
       "name": "天草シオン",
@@ -298,8 +298,8 @@
       "blood_type": "AB",
       "group": "HE★VENS",
       "color_code": "#75c635",
-      "born_in": "長崎県",
-      "born_in_en": "Nagasaki"
+      "birthplace": "長崎県",
+      "birthplace_en": "Nagasaki"
     },
     {
       "name": "四ノ宮砂月",
