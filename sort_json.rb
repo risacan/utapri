@@ -14,6 +14,11 @@ songs = content["songs"].sort_by do |hash|
 end
 
 content["songs"] = songs.reverse
+formatted_json = JSON.pretty_generate(content)
 
 
-File.write('utapri.json', JSON.pretty_generate(content))
+File.write('utapri.json', formatted_json)
+
+yml = YAML.dump(JSON.load(formatted_json))
+File.write("utapri.yml", yml)
+
