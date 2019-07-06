@@ -275,42 +275,42 @@ games:
 - うた☆プリアイランド
 - うたの☆プリンスさまっ♪ Shining Live
 songs:
-- title: Target is you!
-  album: ソロベストアルバム 一ノ瀬トキヤ「Target is you!」
-  singers:
-  - 一ノ瀬トキヤ
-  date: '2019-09-04'
 - title: 時のジュエル
   album: ソロベストアルバム 一ノ瀬トキヤ「Target is you!」
   singers:
   - 一ノ瀬トキヤ
   date: '2019-09-04'
-- title: SUKI×SUKIはなまる！
-  album: ソロベストアルバム 四ノ宮那月「SUKI×SUKIはなまる！」
+- title: Target is you!
+  album: ソロベストアルバム 一ノ瀬トキヤ「Target is you!」
   singers:
-  - 四ノ宮那月
-  date: '2019-08-07'
+  - 一ノ瀬トキヤ
+  date: '2019-09-04'
 - title: 月ノ唄
   album: ソロベストアルバム 四ノ宮那月「SUKI×SUKIはなまる！」
   singers:
   - 四ノ宮那月
   date: '2019-08-07'
-- title: HOLY KNIGHT
-  album: ソロベストアルバム 聖川真斗「HOLY KNIGHT」
+- title: SUKI×SUKIはなまる！
+  album: ソロベストアルバム 四ノ宮那月「SUKI×SUKIはなまる！」
   singers:
-  - 聖川真斗
-  date: '2019-07-03'
+  - 四ノ宮那月
+  date: '2019-08-07'
 - title: 真なる旋律は最愛を歌う
   album: ソロベストアルバム 聖川真斗「HOLY KNIGHT」
   singers:
   - 聖川真斗
   date: '2019-07-03'
-- title: I am Here.
+- title: HOLY KNIGHT
+  album: ソロベストアルバム 聖川真斗「HOLY KNIGHT」
+  singers:
+  - 聖川真斗
+  date: '2019-07-03'
+- title: 愛と呼べる木の下で
   album: ソロベストアルバム 一十木音也「I am Here.」
   singers:
   - 一十木音也
   date: '2019-06-05'
-- title: 愛と呼べる木の下で
+- title: I am Here.
   album: ソロベストアルバム 一十木音也「I am Here.」
   singers:
   - 一十木音也
@@ -327,6 +327,16 @@ songs:
   - 天草シオン
   group: HE★VENS
   date: '2019-04-03'
+- title: 絶対的★N・A・G・I
+  album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
+  singers:
+  - 帝ナギ
+  date: '2019-03-13'
+- title: 熱愛中BANG×BANG×BANG!
+  album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
+  singers:
+  - 桐生院ヴァン
+  date: '2019-03-13'
 - title: 恋の温度–melt into one–
   album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
   singers:
@@ -337,21 +347,6 @@ songs:
   singers:
   - 日向大和
   date: '2019-03-13'
-- title: 熱愛中BANG×BANG×BANG!
-  album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
-  singers:
-  - 桐生院ヴァン
-  date: '2019-03-13'
-- title: Just You
-  album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
-  singers:
-  - 鳳瑛二
-  date: '2019-03-13'
-- title: 絶対的★N・A・G・I
-  album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
-  singers:
-  - 帝ナギ
-  date: '2019-03-13'
 - title: Lyrical Poetry
   album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
   singers:
@@ -361,6 +356,11 @@ songs:
   album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
   singers:
   - 鳳瑛一
+  date: '2019-03-13'
+- title: Just You
+  album: うたの☆プリンスさまっ♪ HE★VENSミニアルバム アンセム フォー ジ エンジェル
+  singers:
+  - 鳳瑛二
   date: '2019-03-13'
 - title: カレイドスコープ
   album: 劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダムスペシャルユニットドラマCD トキヤ・セシル・大和
@@ -523,14 +523,6 @@ songs:
   group: HE★VENS
   itunes: https://itunes.apple.com/jp/album/heaven-sky/1295510641?i=1295510650&uo=4
   date: '2017-11-01'
-- title: Superb Spirits
-  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
-    Stars CD
-  singers:
-  - 一ノ瀬トキヤ
-  - 神宮寺レン
-  - 来栖翔
-  date: '2017-10-19'
 - title: 一緒にHang in there♪
   album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
     Stars CD
@@ -543,6 +535,14 @@ songs:
   - 来栖翔
   - 愛島セシル
   date: '2017-10-19'
+- title: Superb Spirits
+  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
+    Stars CD
+  singers:
+  - 一ノ瀬トキヤ
+  - 神宮寺レン
+  - 来栖翔
+  date: '2017-10-19'
 - title: ADVENT ACE
   album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
     Stars CD
@@ -552,6 +552,19 @@ songs:
   - 四ノ宮那月
   - 愛島セシル
   date: '2017-10-19'
+- title: ハルハナ
+  album: うたの☆プリンスさまっ♪ アイドルソング 蘭丸＆藍
+  singers:
+  - 黒崎蘭丸
+  - 美風藍
+  itunes: https://itunes.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%83%8F%E3%83%8A/1230917640?i=1230918734&uo=4
+  date: '2017-05-24'
+- title: シンクロニズム
+  album: うたの☆プリンスさまっ♪ アイドルソング 蘭丸＆藍
+  singers:
+  - 美風藍
+  itunes: https://itunes.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%BA%E3%83%A0/1230917640?i=1230918737&uo=4
+  date: '2017-05-24'
 - title: WE ARE ST☆RISH!!
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター 6 封入特典CD
   singers:
@@ -570,19 +583,6 @@ songs:
   singers:
   - 黒崎蘭丸
   itunes: https://itunes.apple.com/jp/album/be-proud/1230917640?i=1230918735&uo=4
-  date: '2017-05-24'
-- title: ハルハナ
-  album: うたの☆プリンスさまっ♪ アイドルソング 蘭丸＆藍
-  singers:
-  - 黒崎蘭丸
-  - 美風藍
-  itunes: https://itunes.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%83%8F%E3%83%8A/1230917640?i=1230918734&uo=4
-  date: '2017-05-24'
-- title: シンクロニズム
-  album: うたの☆プリンスさまっ♪ アイドルソング 蘭丸＆藍
-  singers:
-  - 美風藍
-  itunes: https://itunes.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%BA%E3%83%A0/1230917640?i=1230918737&uo=4
   date: '2017-05-24'
 - title: オン・ユア・マーク！
   album: うたの☆プリンスさまっ♪ アイドルソング 嶺二＆カミュ
@@ -672,6 +672,12 @@ songs:
   group: QUARTET NIGHT
   itunes: https://itunes.apple.com/jp/album/gods-s-t-a-r/1182850806?i=1182851082&uo=4
   date: '2016-12-21'
+- title: STATE OF PERFECTION
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一
+  singers:
+  - 鳳瑛一
+  itunes: https://itunes.apple.com/jp/album/state-of-perfection/1179734228?i=1179734285&uo=4
+  date: '2016-12-07'
 - title: NEXT DOOR
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一
   singers:
@@ -679,30 +685,12 @@ songs:
   - 鳳瑛一
   itunes: https://itunes.apple.com/jp/album/next-door/1179734228?i=1179734283&uo=4
   date: '2016-12-07'
-- title: STATE OF PERFECTION
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一
-  singers:
-  - 鳳瑛一
-  itunes: https://itunes.apple.com/jp/album/state-of-perfection/1179734228?i=1179734285&uo=4
-  date: '2016-12-07'
 - title: Brilliant Days
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一十木音也＆鳳 瑛一
   singers:
   - 一十木音也
   itunes: https://itunes.apple.com/jp/album/brilliant-days/1179734228?i=1179734284&uo=4
   date: '2016-12-07'
-- title: Dazzling darling
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅
-  singers:
-  - 皇綺羅
-  itunes: https://itunes.apple.com/jp/album/dazzling-darling/1177478350?i=1177478455&uo=4
-  date: '2016-11-30'
-- title: I swear...
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅
-  singers:
-  - 聖川真斗
-  itunes: https://itunes.apple.com/jp/album/i-swear/1177478350?i=1177478454&uo=4
-  date: '2016-11-30'
 - title: Lasting Oneness
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅
   singers:
@@ -710,17 +698,29 @@ songs:
   - 皇綺羅
   itunes: https://itunes.apple.com/jp/album/lasting-oneness/1177478350?i=1177478453&uo=4
   date: '2016-11-30'
-- title: Tears in love
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ
+- title: I swear...
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅
   singers:
-  - 四ノ宮那月
-  itunes: https://itunes.apple.com/jp/album/tears-in-love/1174877788?i=1174878025&uo=4
-  date: '2016-11-23'
+  - 聖川真斗
+  itunes: https://itunes.apple.com/jp/album/i-swear/1177478350?i=1177478454&uo=4
+  date: '2016-11-30'
+- title: Dazzling darling
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 聖川真斗＆皇 綺羅
+  singers:
+  - 皇綺羅
+  itunes: https://itunes.apple.com/jp/album/dazzling-darling/1177478350?i=1177478455&uo=4
+  date: '2016-11-30'
 - title: You're mine!
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ
   singers:
   - 帝ナギ
   itunes: https://itunes.apple.com/jp/album/youre-mine/1174877788?i=1174878026&uo=4
+  date: '2016-11-23'
+- title: Tears in love
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ
+  singers:
+  - 四ノ宮那月
+  itunes: https://itunes.apple.com/jp/album/tears-in-love/1174877788?i=1174878025&uo=4
   date: '2016-11-23'
 - title: Grown empathy
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 四ノ宮那月＆帝 ナギ
@@ -735,6 +735,12 @@ songs:
   - 来栖翔
   itunes: https://itunes.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%92%E3%81%BE%E3%81%9F%E5%A7%8B%E3%82%81%E3%82%88%E3%81%86/1169948441?i=1169948815&uo=4
   date: '2016-11-2'
+- title: OVER THE TOP
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和
+  singers:
+  - 日向大和
+  itunes: https://itunes.apple.com/jp/album/over-the-top/1169948441?i=1169948817&uo=4
+  date: '2016-11-2'
 - title: JUSTICE IMPULSE
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和
   singers:
@@ -742,12 +748,12 @@ songs:
   - 日向大和
   itunes: https://itunes.apple.com/jp/album/justice-impulse/1169948441?i=1169948814&uo=4
   date: '2016-11-2'
-- title: OVER THE TOP
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 来栖翔＆日向大和
+- title: My cutie...Drive me crazy!
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン
   singers:
-  - 日向大和
-  itunes: https://itunes.apple.com/jp/album/over-the-top/1169948441?i=1169948817&uo=4
-  date: '2016-11-2'
+  - 桐生院ヴァン
+  itunes: https://itunes.apple.com/jp/album/my-cutie-drive-me-crazy/1174877599?i=1174877683&uo=4
+  date: '2016-11-16'
 - title: Lovely Eyes
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン
   singers:
@@ -755,18 +761,18 @@ songs:
   - 桐生院ヴァン
   itunes: https://itunes.apple.com/jp/album/lovely-eyes/1174877599?i=1174877681&uo=4
   date: '2016-11-16'
-- title: My cutie...Drive me crazy!
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン
-  singers:
-  - 桐生院ヴァン
-  itunes: https://itunes.apple.com/jp/album/my-cutie-drive-me-crazy/1174877599?i=1174877683&uo=4
-  date: '2016-11-16'
 - title: Give Me True Love
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 神宮寺レン＆桐生院ヴァン
   singers:
   - 神宮寺レン
   itunes: https://itunes.apple.com/jp/album/give-me-true-love/1174877599?i=1174877682&uo=4
   date: '2016-11-16'
+- title: 甘美なるアルカディア
+  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン
+  singers:
+  - 愛島セシル
+  itunes: https://itunes.apple.com/jp/album/%E7%94%98%E7%BE%8E%E3%81%AA%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/1169950154?i=1169950671&uo=4
+  date: '2016-11-09'
 - title: 導き光
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン
   singers:
@@ -779,12 +785,6 @@ songs:
   - 愛島セシル
   - 天草シオン
   itunes: https://itunes.apple.com/jp/album/visible-elf/1169950154?i=1169950666&uo=4
-  date: '2016-11-09'
-- title: 甘美なるアルカディア
-  album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 愛島セシル＆天草シオン
-  singers:
-  - 愛島セシル
-  itunes: https://itunes.apple.com/jp/album/%E7%94%98%E7%BE%8E%E3%81%AA%E3%82%8B%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/1169950154?i=1169950671&uo=4
   date: '2016-11-09'
 - title: Mighty Aura
   album: うたの☆プリンスさまっ♪ マジLOVEレジェンドスター デュエットアイドルソング 一ノ瀬トキヤ＆鳳 瑛二
@@ -805,19 +805,6 @@ songs:
   - 一ノ瀬トキヤ
   itunes: https://itunes.apple.com/jp/album/be-the-light/1164858524?i=1164858540&uo=4
   date: '2016-10-26'
-- title: マジLOVEレジェンドスター
-  album: マジLOVEレジェンドスター
-  singers:
-  - 一十木音也
-  - 聖川真斗
-  - 四ノ宮那月
-  - 一ノ瀬トキヤ
-  - 神宮寺レン
-  - 来栖翔
-  - 愛島セシル
-  group: ST☆RISH
-  itunes: https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%E3%82%B9%E3%82%BF%E3%83%BC/1156322073?i=1156322137&uo=4
-  date: '2016-10-05'
 - title: 未来、夢、ありがとう…そして!
   album: マジLOVEレジェンドスター
   singers:
@@ -831,6 +818,29 @@ songs:
   group: ST☆RISH
   itunes: https://itunes.apple.com/jp/album/%E6%9C%AA%E6%9D%A5-%E5%A4%A2-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-%E3%81%9D%E3%81%97%E3%81%A6/1156322073?i=1156322138&uo=4
   date: '2016-10-05'
+- title: マジLOVEレジェンドスター
+  album: マジLOVEレジェンドスター
+  singers:
+  - 一十木音也
+  - 聖川真斗
+  - 四ノ宮那月
+  - 一ノ瀬トキヤ
+  - 神宮寺レン
+  - 来栖翔
+  - 愛島セシル
+  group: ST☆RISH
+  itunes: https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%E3%82%B9%E3%82%BF%E3%83%BC/1156322073?i=1156322137&uo=4
+  date: '2016-10-05'
+- title: NIGHT DREAM
+  album: うたの☆プリンスさまっ♪Shining Dream CD
+  singers:
+  - 聖川真斗
+  - 一ノ瀬トキヤ
+  - 愛島セシル
+  - 美風藍
+  - カミュ
+  itunes: https://itunes.apple.com/jp/album/night-dream/1145251373?i=1145251864&uo=4
+  date: '2016-08-17'
 - title: DAY DREAM
   album: うたの☆プリンスさまっ♪Shining Dream CD
   singers:
@@ -841,16 +851,6 @@ songs:
   - 寿嶺二
   - 黒崎蘭丸
   itunes: https://itunes.apple.com/jp/album/day-dream/1145251373?i=1145251863&uo=4
-  date: '2016-08-17'
-- title: NIGHT DREAM
-  album: うたの☆プリンスさまっ♪Shining Dream CD
-  singers:
-  - 聖川真斗
-  - 一ノ瀬トキヤ
-  - 愛島セシル
-  - 美風藍
-  - カミュ
-  itunes: https://itunes.apple.com/jp/album/night-dream/1145251373?i=1145251864&uo=4
   date: '2016-08-17'
 - title: ポラリス
   album: うたの☆プリンスさまっ♪シアターシャイニング ポラリス
@@ -958,13 +958,6 @@ songs:
   group: QUARTET NIGHT
   itunes: https://itunes.apple.com/jp/album/the-dice-are-cast/1003576935?i=1003576941&uo=4
   date: '2015-06-24'
-- title: ORIGINAL RESONANCE
-  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　聖川真斗・一ノ瀬トキヤ
-  singers:
-  - 聖川真斗
-  - 一ノ瀬トキヤ
-  itunes: https://itunes.apple.com/jp/album/original-resonance/1001478768?i=1001478770&uo=4
-  date: '2015-05-27'
 - title: 静炎ブレイブハート
   album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　聖川真斗・一ノ瀬トキヤ
   singers:
@@ -976,6 +969,13 @@ songs:
   singers:
   - 一ノ瀬トキヤ
   itunes: https://itunes.apple.com/jp/album/secret-lover/1001478768?i=1001478772&uo=4
+  date: '2015-05-27'
+- title: ORIGINAL RESONANCE
+  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　聖川真斗・一ノ瀬トキヤ
+  singers:
+  - 聖川真斗
+  - 一ノ瀬トキヤ
+  itunes: https://itunes.apple.com/jp/album/original-resonance/1001478768?i=1001478770&uo=4
   date: '2015-05-27'
 - title: ONLY ONE
   album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　黒崎蘭丸
@@ -989,32 +989,18 @@ songs:
   - 黒崎蘭丸
   itunes: https://itunes.apple.com/jp/album/no-1/996874793?i=996874795&uo=4
   date: '2015-05-20'
-- title: Double face
-  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　カミュ
-  singers:
-  - カミュ
-  itunes: https://itunes.apple.com/jp/album/double-face/990197775?i=990197778&uo=4
-  date: '2015-05-13'
 - title: Saintly Territory
   album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　カミュ
   singers:
   - カミュ
   itunes: https://itunes.apple.com/jp/album/saintly-territory/990197775?i=990197777&uo=4
   date: '2015-05-13'
-- title: Code:T.V.U
-  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル
+- title: Double face
+  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　カミュ
   singers:
-  - 神宮寺レン
-  - 来栖翔
-  - 愛島セシル
-  itunes: https://itunes.apple.com/jp/album/code-t-v-u/990197121?i=990197134&uo=4
-  date: '2015-05-08'
-- title: GREEN AMBITION
-  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル
-  singers:
-  - 愛島セシル
-  itunes: https://itunes.apple.com/jp/album/green-ambition/990197121?i=990197677&uo=4
-  date: '2015-05-08'
+  - カミュ
+  itunes: https://itunes.apple.com/jp/album/double-face/990197775?i=990197778&uo=4
+  date: '2015-05-13'
 - title: すべてを歌にっ！
   album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル
   singers:
@@ -1026,6 +1012,20 @@ songs:
   singers:
   - 神宮寺レン
   itunes: https://itunes.apple.com/jp/album/mellow-2-chu/990197121?i=990197675&uo=4
+  date: '2015-05-08'
+- title: GREEN AMBITION
+  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル
+  singers:
+  - 愛島セシル
+  itunes: https://itunes.apple.com/jp/album/green-ambition/990197121?i=990197677&uo=4
+  date: '2015-05-08'
+- title: Code:T.V.U
+  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　神宮寺レン・来栖翔・愛島セシル
+  singers:
+  - 神宮寺レン
+  - 来栖翔
+  - 愛島セシル
+  itunes: https://itunes.apple.com/jp/album/code-t-v-u/990197121?i=990197134&uo=4
   date: '2015-05-08'
 - title: ムネノコドウ
   album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　アイドルソング　美風藍
@@ -1039,6 +1039,12 @@ songs:
   - 美風藍
   itunes: https://itunes.apple.com/jp/album/innocent-wind/989105638?i=989105640&uo=4
   date: '2015-04-29'
+- title: 木漏れ日ダイヤモンド
+  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月
+  singers:
+  - 一十木音也
+  itunes: https://itunes.apple.com/jp/album/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/988298435?i=988298438&uo=4
+  date: '2015-04-22'
 - title: The New World
   album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月
   singers:
@@ -1052,25 +1058,6 @@ songs:
   - 四ノ宮那月
   itunes: https://itunes.apple.com/jp/album/emotional-life/988298435?i=988298437&uo=4
   date: '2015-04-22'
-- title: 木漏れ日ダイヤモンド
-  album: うたの☆プリンスさまっ♪ マジLOVEレボリューションズ　クロスユニットアイドルソング　一十木音也・四ノ宮那月
-  singers:
-  - 一十木音也
-  itunes: https://itunes.apple.com/jp/album/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/988298435?i=988298438&uo=4
-  date: '2015-04-22'
-- title: サンキュ
-  album: マジLOVEレボリューションズ
-  singers:
-  - 一十木音也
-  - 聖川真斗
-  - 四ノ宮那月
-  - 一ノ瀬トキヤ
-  - 神宮寺レン
-  - 来栖翔
-  - 愛島セシル
-  group: ST☆RISH
-  itunes: https://itunes.apple.com/jp/album/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5/595630285?i=595630370&uo=4
-  date: '2015-04-08'
 - title: マジLOVEレボリューションズ
   album: マジLOVEレボリューションズ
   singers:
@@ -1083,6 +1070,19 @@ songs:
   - 愛島セシル
   group: ST☆RISH
   itunes: https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA/978251753?i=978251836&uo=4
+  date: '2015-04-08'
+- title: サンキュ
+  album: マジLOVEレボリューションズ
+  singers:
+  - 一十木音也
+  - 聖川真斗
+  - 四ノ宮那月
+  - 一ノ瀬トキヤ
+  - 神宮寺レン
+  - 来栖翔
+  - 愛島セシル
+  group: ST☆RISH
+  itunes: https://itunes.apple.com/jp/album/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5/595630285?i=595630370&uo=4
   date: '2015-04-08'
 - title: マリアージュ
   album: うたの☆プリンスさまっ♪ カルテットアイドルソング
@@ -1114,41 +1114,41 @@ songs:
   - カミュ
   itunes: https://itunes.apple.com/jp/album/aurora/904515070?i=904515080&uo=4
   date: '2014-07-30'
-- title: A.I
-  album: うたの☆プリンスさまっ♪アイドルソング 美風藍
-  singers:
-  - 美風藍
-  itunes: https://itunes.apple.com/jp/album/a-i/890735257?i=890735263&uo=4
-  date: '2014-06-25'
 - title: 二人のモノグラム
   album: うたの☆プリンスさまっ♪アイドルソング 美風藍
   singers:
   - 美風藍
   itunes: https://itunes.apple.com/jp/album/%E4%BA%8C%E4%BA%BA%E3%81%AE%E3%83%A2%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0/890735257?i=890735264&uo=4
   date: '2014-06-25'
-- title: Not Bad
-  album: うたの☆プリンスさまっ♪アイドルソング 黒崎蘭丸
+- title: A.I
+  album: うたの☆プリンスさまっ♪アイドルソング 美風藍
   singers:
-  - 黒崎蘭丸
-  itunes: https://itunes.apple.com/jp/album/not-bad/881407879?i=881407880&uo=4
-  date: '2014-05-28'
+  - 美風藍
+  itunes: https://itunes.apple.com/jp/album/a-i/890735257?i=890735263&uo=4
+  date: '2014-06-25'
 - title: WILD SOUL
   album: うたの☆プリンスさまっ♪アイドルソング 黒崎蘭丸
   singers:
   - 黒崎蘭丸
   itunes: https://itunes.apple.com/jp/album/wild-soul/881407879?i=881407881&uo=4
   date: '2014-05-28'
-- title: キスはウインクで
-  album: うたの☆プリンスさまっ♪アイドルソング 寿嶺二
+- title: Not Bad
+  album: うたの☆プリンスさまっ♪アイドルソング 黒崎蘭丸
   singers:
-  - 寿嶺二
-  itunes: https://itunes.apple.com/jp/album/%E3%82%AD%E3%82%B9%E3%81%AF%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%AF%E3%81%A7/863700393?i=863700454&uo=4
-  date: '2014-04-30'
+  - 黒崎蘭丸
+  itunes: https://itunes.apple.com/jp/album/not-bad/881407879?i=881407880&uo=4
+  date: '2014-05-28'
 - title: 愛しき人へ
   album: うたの☆プリンスさまっ♪アイドルソング 寿嶺二
   singers:
   - 寿嶺二
   itunes: https://itunes.apple.com/jp/album/%E6%84%9B%E3%81%97%E3%81%8D%E4%BA%BA%E3%81%B8/863700393?i=863700453&uo=4
+  date: '2014-04-30'
+- title: キスはウインクで
+  album: うたの☆プリンスさまっ♪アイドルソング 寿嶺二
+  singers:
+  - 寿嶺二
+  itunes: https://itunes.apple.com/jp/album/%E3%82%AD%E3%82%B9%E3%81%AF%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%AF%E3%81%A7/863700393?i=863700454&uo=4
   date: '2014-04-30'
 - title: JOKER TRAP
   album: うたの☆プリンスさまっ♪劇団シャイニング JOKER TRAP
@@ -1230,53 +1230,53 @@ songs:
   - 一ノ瀬トキヤ
   itunes: https://itunes.apple.com/jp/album/crystal-time/660671087?i=660671189&uo=4
   date: '2013-06-12'
-- title: Happiness
-  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 愛島セシル
-  singers:
-  - 愛島セシル
-  itunes: https://itunes.apple.com/jp/album/happiness/657727859?i=657727975&uo=4
-  date: '2013-06-05'
 - title: 星のファンタジア
   album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 愛島セシル
   singers:
   - 愛島セシル
   itunes: https://itunes.apple.com/jp/album/%E6%98%9F%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2/657727859?i=657727974&uo=4
   date: '2013-06-05'
-- title: "☆YELL☆"
-  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 四ノ宮那月
+- title: Happiness
+  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 愛島セシル
   singers:
-  - 四ノ宮那月
-  itunes: https://itunes.apple.com/jp/album/yell/655534733?i=655535026&uo=4
-  date: '2013-05-29'
+  - 愛島セシル
+  itunes: https://itunes.apple.com/jp/album/happiness/657727859?i=657727975&uo=4
+  date: '2013-06-05'
 - title: シリウスへの誓い
   album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 四ノ宮那月
   singers:
   - 四ノ宮那月
   itunes: https://itunes.apple.com/jp/album/%E3%82%B7%E3%83%AA%E3%82%A6%E3%82%B9%E3%81%B8%E3%81%AE%E8%AA%93%E3%81%84/655534733?i=655535025&uo=4
   date: '2013-05-29'
-- title: FREEDOM
-  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 神宮寺レン
+- title: "☆YELL☆"
+  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 四ノ宮那月
   singers:
-  - 神宮寺レン
-  itunes: https://itunes.apple.com/jp/album/freedom/652014313?i=652014317&uo=4
-  date: '2013-05-22'
+  - 四ノ宮那月
+  itunes: https://itunes.apple.com/jp/album/yell/655534733?i=655535026&uo=4
+  date: '2013-05-29'
 - title: オレンジラプソディ
   album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 神宮寺レン
   singers:
   - 神宮寺レン
   itunes: https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3/652014313?i=652014315&uo=4
   date: '2013-05-22'
-- title: HORIZON
-  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 一十木音也
+- title: FREEDOM
+  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 神宮寺レン
   singers:
-  - 一十木音也
-  itunes: https://itunes.apple.com/jp/album/horizon/648853560?i=648853565&uo=4
-  date: '2013-05-15'
+  - 神宮寺レン
+  itunes: https://itunes.apple.com/jp/album/freedom/652014313?i=652014317&uo=4
+  date: '2013-05-22'
 - title: SMILE MAGIC
   album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 一十木音也
   singers:
   - 一十木音也
   itunes: https://itunes.apple.com/jp/album/smile-magic/648853560?i=648853564&uo=4
+  date: '2013-05-15'
+- title: HORIZON
+  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 一十木音也
+  singers:
+  - 一十木音也
+  itunes: https://itunes.apple.com/jp/album/horizon/648853560?i=648853565&uo=4
   date: '2013-05-15'
 - title: 恋桜
   album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 聖川真斗
@@ -1290,17 +1290,17 @@ songs:
   - 聖川真斗
   itunes: https://itunes.apple.com/jp/album/sanctuary/646280710?i=646280719&uo=4
   date: '2013-05-08'
-- title: CHALLENGE!
-  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 来栖翔
-  singers:
-  - 来栖翔
-  itunes: https://itunes.apple.com/jp/album/challenge/640481678?i=640481756&uo=4
-  date: '2013-05-01'
 - title: TRUE WING
   album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 来栖翔
   singers:
   - 来栖翔
   itunes: https://itunes.apple.com/jp/album/true-wing/640481678?i=640481755&uo=4
+  date: '2013-05-01'
+- title: CHALLENGE!
+  album: うたの☆プリンスさまっ♪マジLOVE2000% アイドルソング 来栖翔
+  singers:
+  - 来栖翔
+  itunes: https://itunes.apple.com/jp/album/challenge/640481678?i=640481756&uo=4
   date: '2013-05-01'
 - title: 夢追人へのSymphony
   album: マジLOVE2000%
@@ -1378,6 +1378,12 @@ songs:
   - 黒崎蘭丸
   itunes: https://itunes.apple.com/jp/album/rise-again/637475749?i=637475844&uo=4
   date: '2012-09-26'
+- title: 絶対零度Emotion
+  album: うたの☆プリンスさまっ♪アイドルソング 蘭丸＆カミュ
+  singers:
+  - カミュ
+  itunes: https://itunes.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E9%9B%B6%E5%BA%A6emotion/627408503?i=627408702&uo=4
+  date: '2012-09-05'
 - title: BRIGHT ROAD
   album: うたの☆プリンスさまっ♪アイドルソング 蘭丸＆カミュ
   singers:
@@ -1385,33 +1391,18 @@ songs:
   - カミュ
   itunes: https://itunes.apple.com/jp/album/bright-road/627408503?i=627408696&uo=4
   date: '2012-09-05'
-- title: 絶対零度Emotion
-  album: うたの☆プリンスさまっ♪アイドルソング 蘭丸＆カミュ
-  singers:
-  - カミュ
-  itunes: https://itunes.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E9%9B%B6%E5%BA%A6emotion/627408503?i=627408702&uo=4
-  date: '2012-09-05'
-- title: WinterBlossom
-  album: うたの☆プリンスさまっ♪ アイドルソング 嶺二＆藍
-  singers:
-  - 美風藍
-  itunes: https://itunes.apple.com/jp/album/winterblossom/627410203?i=627410296&uo=4
-  date: '2012-08-22'
 - title: 溺愛テンプテーション
   album: うたの☆プリンスさまっ♪ アイドルソング 嶺二＆藍
   singers:
   - 寿嶺二
   itunes: https://itunes.apple.com/jp/album/%E6%BA%BA%E6%84%9B%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/627410203?i=627410293&uo=4
   date: '2012-08-22'
-- title: QUARTET★NIGHT
-  album: うたの☆プリンスさまっ♪Shining All Star CD
+- title: WinterBlossom
+  album: うたの☆プリンスさまっ♪ アイドルソング 嶺二＆藍
   singers:
-  - 寿嶺二
-  - 黒崎蘭丸
   - 美風藍
-  - カミュ
-  itunes: https://itunes.apple.com/jp/album/quartet-night/637495951?i=637496165&uo=4
-  date: '2012-07-25'
+  itunes: https://itunes.apple.com/jp/album/winterblossom/627410203?i=627410296&uo=4
+  date: '2012-08-22'
 - title: RAINBOW☆DREAM
   album: うたの☆プリンスさまっ♪Shining All Star CD
   singers:
@@ -1423,6 +1414,15 @@ songs:
   - 来栖翔
   - 愛島セシル
   itunes: https://itunes.apple.com/jp/album/rainbow-dream/637495951?i=637496164&uo=4
+  date: '2012-07-25'
+- title: QUARTET★NIGHT
+  album: うたの☆プリンスさまっ♪Shining All Star CD
+  singers:
+  - 寿嶺二
+  - 黒崎蘭丸
+  - 美風藍
+  - カミュ
+  itunes: https://itunes.apple.com/jp/album/quartet-night/637495951?i=637496165&uo=4
   date: '2012-07-25'
 - title: ガムシャラROman☆Tic
   album: うたの☆プリンスさまっ♪ Debut ユニットドラマCD 嶺二＆音也＆トキヤ
@@ -1467,29 +1467,29 @@ songs:
   - 愛島セシル
   itunes: https://itunes.apple.com/jp/album/eternity-love/627421263?i=627421409&uo=4
   date: '2011-09-07'
-- title: My Little Little Girl
-  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ
-  singers:
-  - 一ノ瀬トキヤ
-  itunes: https://itunes.apple.com/jp/album/my-little-little-girl/627419927?i=627420154&uo=4
-  date: '2011-08-31'
 - title: 七色のコンパス
   album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ
   singers:
   - 一ノ瀬トキヤ
   itunes: https://itunes.apple.com/jp/album/%E4%B8%83%E8%89%B2%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/627419927?i=627420153&uo=4
   date: '2011-08-31'
-- title: Top Star Revolution
-  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 四ノ宮那月
+- title: My Little Little Girl
+  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一ノ瀬トキヤ
   singers:
-  - 四ノ宮那月
-  itunes: https://itunes.apple.com/jp/album/top-star-revolution/627419580?i=627419882&uo=4
-  date: '2011-08-24'
+  - 一ノ瀬トキヤ
+  itunes: https://itunes.apple.com/jp/album/my-little-little-girl/627419927?i=627420154&uo=4
+  date: '2011-08-31'
 - title: オリオンでSHOUT OUT
   album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 四ノ宮那月
   singers:
   - 四ノ宮那月
   itunes: https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%81%A7shout-out/627419580?i=627419881&uo=4
+  date: '2011-08-24'
+- title: Top Star Revolution
+  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 四ノ宮那月
+  singers:
+  - 四ノ宮那月
+  itunes: https://itunes.apple.com/jp/album/top-star-revolution/627419580?i=627419882&uo=4
   date: '2011-08-24'
 - title: 男気全開Go! Fight!!
   album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 来栖翔
@@ -1515,42 +1515,30 @@ songs:
   - 神宮寺レン
   itunes: https://itunes.apple.com/jp/album/dear-burning-my-lady/627415805?i=627416651&uo=4
   date: '2011-08-10'
-- title: Knocking on the mind
-  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 聖川真斗
-  singers:
-  - 聖川真斗
-  itunes: https://itunes.apple.com/jp/album/knocking-on-the-mind/627420960?i=627420964&uo=4
-  date: '2011-08-03'
 - title: Mostフォルティシモ
   album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 聖川真斗
   singers:
   - 聖川真斗
   itunes: https://itunes.apple.com/jp/album/most%E3%83%95%E3%82%A9%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A2/627420960?i=627420965&uo=4
   date: '2011-08-03'
-- title: BRAND NEW MELODY
-  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一十木音也
+- title: Knocking on the mind
+  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 聖川真斗
   singers:
-  - 一十木音也
-  itunes: https://itunes.apple.com/jp/album/brand-new-melody/627420407?i=627420417&uo=4
-  date: '2011-07-27'
+  - 聖川真斗
+  itunes: https://itunes.apple.com/jp/album/knocking-on-the-mind/627420960?i=627420964&uo=4
+  date: '2011-08-03'
 - title: Over the Rainbow
   album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一十木音也
   singers:
   - 一十木音也
   itunes: https://itunes.apple.com/jp/album/over-the-rainbow/627420407?i=627420420&uo=4
   date: '2011-07-27'
-- title: マジLOVE1000%
-  album: マジLOVE1000%
+- title: BRAND NEW MELODY
+  album: うたの☆プリンスさまっ♪マジLOVE1000% アイドルソング 一十木音也
   singers:
   - 一十木音也
-  - 聖川真斗
-  - 四ノ宮那月
-  - 一ノ瀬トキヤ
-  - 神宮寺レン
-  - 来栖翔
-  group: ST☆RISH
-  itunes: https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love1000/448858424?i=448858450&uo=4
-  date: '2011-07-20'
+  itunes: https://itunes.apple.com/jp/album/brand-new-melody/627420407?i=627420417&uo=4
+  date: '2011-07-27'
 - title: 未来地図
   album: マジLOVE1000%
   singers:
@@ -1562,6 +1550,18 @@ songs:
   - 来栖翔
   group: ST☆RISH
   itunes: https://itunes.apple.com/jp/album/%E6%9C%AA%E6%9D%A5%E5%9C%B0%E5%9B%B3/448858424?i=448858451&uo=4
+  date: '2011-07-20'
+- title: マジLOVE1000%
+  album: マジLOVE1000%
+  singers:
+  - 一十木音也
+  - 聖川真斗
+  - 四ノ宮那月
+  - 一ノ瀬トキヤ
+  - 神宮寺レン
+  - 来栖翔
+  group: ST☆RISH
+  itunes: https://itunes.apple.com/jp/album/%E3%83%9E%E3%82%B8love1000/448858424?i=448858450&uo=4
   date: '2011-07-20'
 - title: ROULETTE
   album: うたの☆プリンスさまっ♪デュエットドラマCD 音也＆トキヤ
@@ -1623,36 +1623,30 @@ songs:
   - 四ノ宮那月
   itunes: https://itunes.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%81%A7%E3%82%AF%E3%83%81%E3%83%85%E3%82%B1%E3%82%92/627421388?i=627421469&uo=4
   date: '2010-11-10'
-- title: BLUE×PRISM HEART
-  album: "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS"
-  singers:
-  - 聖川真斗
-  itunes: https://itunes.apple.com/jp/album/blue-prism-heart/627415916?i=627416233&uo=4
-  date: '2010-10-27'
 - title: RED HOT×LOVE MINDS
   album: "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS"
   singers:
   - 神宮寺レン
   itunes: https://itunes.apple.com/jp/album/red-hot-love-minds/627415916?i=627416237&uo=4
   date: '2010-10-27'
-- title: 星屑☆Shall we dance？
-  album: "「うたの☆プリンスさまっ♪」ハッピーラブソング(1) 虹色☆OVERDRIVE！ / 星屑☆Shall we dance？"
+- title: BLUE×PRISM HEART
+  album: "「うたの☆プリンスさまっ♪」ハッピーラブソング(2) BLUE×PRISM HEART / RED HOT×LOVE MINDS"
   singers:
-  - 一ノ瀬トキヤ
-  itunes: https://itunes.apple.com/jp/album/%E6%98%9F%E5%B1%91-shall-we-dance/627409623?i=627409774&uo=4
-  date: '2010-09-22'
+  - 聖川真斗
+  itunes: https://itunes.apple.com/jp/album/blue-prism-heart/627415916?i=627416233&uo=4
+  date: '2010-10-27'
 - title: 虹色☆OVER DRIVE
   album: "「うたの☆プリンスさまっ♪」ハッピーラブソング(1) 虹色☆OVERDRIVE！ / 星屑☆Shall we dance？"
   singers:
   - 一十木音也
   itunes: https://itunes.apple.com/jp/album/%E8%99%B9%E8%89%B2-over-drive/627409623?i=627409768&uo=4
   date: '2010-09-22'
-- title: DESTINY SONG
-  album: サウンドの☆プリンスさまっ♪
+- title: 星屑☆Shall we dance？
+  album: "「うたの☆プリンスさまっ♪」ハッピーラブソング(1) 虹色☆OVERDRIVE！ / 星屑☆Shall we dance？"
   singers:
-  - 愛島セシル
-  itunes: https://itunes.apple.com/jp/album/destiny-song-feat-%E4%B8%8A%E6%9D%BE%E7%AF%84%E5%BA%B7-elementsgarden/627415338?i=627415374&uo=4
-  date: '2010-06-30'
+  - 一ノ瀬トキヤ
+  itunes: https://itunes.apple.com/jp/album/%E6%98%9F%E5%B1%91-shall-we-dance/627409623?i=627409774&uo=4
+  date: '2010-09-22'
 - title: Welcome to UTA☆PRI world!!
   album: サウンドの☆プリンスさまっ♪
   singers:
@@ -1664,14 +1658,12 @@ songs:
   - 来栖翔
   itunes: https://itunes.apple.com/jp/album/welcome-to-uta-pri-world/627415338?i=627415352&uo=4
   date: '2010-06-30'
-- title: 永遠のトライスター
-  album: オーディションソング(4) 永遠のトライスター / 無限のトリニティ
+- title: DESTINY SONG
+  album: サウンドの☆プリンスさまっ♪
   singers:
-  - 一十木音也
-  - 聖川真斗
-  - 四ノ宮那月
-  itunes: https://itunes.apple.com/jp/album/%E6%B0%B8%E9%81%A0%E3%81%AE%E3%83%88%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/627407653?i=627407658&uo=4
-  date: '2010-02-24'
+  - 愛島セシル
+  itunes: https://itunes.apple.com/jp/album/destiny-song-feat-%E4%B8%8A%E6%9D%BE%E7%AF%84%E5%BA%B7-elementsgarden/627415338?i=627415374&uo=4
+  date: '2010-06-30'
 - title: 無限のトリニティ
   album: オーディションソング(4) 永遠のトライスター / 無限のトリニティ
   singers:
@@ -1680,39 +1672,47 @@ songs:
   - 来栖翔
   itunes: https://itunes.apple.com/jp/album/%E7%84%A1%E9%99%90%E3%81%AE%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3/627407653?i=627407853&uo=4
   date: '2010-02-24'
-- title: オレサマ愛歌
-  album: オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌
+- title: 永遠のトライスター
+  album: オーディションソング(4) 永遠のトライスター / 無限のトリニティ
   singers:
-  - 来栖翔
-  itunes: https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AC%E3%82%B5%E3%83%9E%E6%84%9B%E6%AD%8C/627420107?i=627420204&uo=4
-  date: '2010-01-27'
+  - 一十木音也
+  - 聖川真斗
+  - 四ノ宮那月
+  itunes: https://itunes.apple.com/jp/album/%E6%B0%B8%E9%81%A0%E3%81%AE%E3%83%88%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC/627407653?i=627407658&uo=4
+  date: '2010-02-24'
 - title: サザンクロス恋唄
   album: オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌
   singers:
   - 四ノ宮那月
   itunes: https://itunes.apple.com/jp/album/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E6%81%8B%E5%94%84/627420107?i=627420200&uo=4
   date: '2010-01-27'
-- title: 悪魔のKissは炎より激しく
-  album: オーディションソング(2) 騎士のKissは雪より優しく / 悪魔のKissは炎より激しく
+- title: オレサマ愛歌
+  album: オーディションソング(3) サザンクロス恋唄 / オレサマ愛歌
   singers:
-  - 神宮寺レン
-  itunes: https://itunes.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AEkiss%E3%81%AF%E7%82%8E%E3%82%88%E3%82%8A%E6%BF%80%E3%81%97%E3%81%8F/627419652?i=627419667&uo=4
-  date: '2009-12-23'
+  - 来栖翔
+  itunes: https://itunes.apple.com/jp/album/%E3%82%AA%E3%83%AC%E3%82%B5%E3%83%9E%E6%84%9B%E6%AD%8C/627420107?i=627420204&uo=4
+  date: '2010-01-27'
 - title: 騎士のKissは雪より優しく
   album: オーディションソング(2) 騎士のKissは雪より優しく / 悪魔のKissは炎より激しく
   singers:
   - 聖川真斗
   itunes: https://itunes.apple.com/jp/album/%E9%A8%8E%E5%A3%AB%E3%81%AEkiss%E3%81%AF%E9%9B%AA%E3%82%88%E3%82%8A%E5%84%AA%E3%81%97%E3%81%8F/627419652?i=627419666&uo=4
   date: '2009-12-23'
-- title: BELIEVE☆MY VOICE
-  album: オーディションソング(1) TRUST☆MY DREAM / BELIEVE☆MY VOICE
+- title: 悪魔のKissは炎より激しく
+  album: オーディションソング(2) 騎士のKissは雪より優しく / 悪魔のKissは炎より激しく
   singers:
-  - 一ノ瀬トキヤ
-  itunes: https://itunes.apple.com/jp/album/believe-my-voice/627415519?i=627415672&uo=4
-  date: '2009-11-26'
+  - 神宮寺レン
+  itunes: https://itunes.apple.com/jp/album/%E6%82%AA%E9%AD%94%E3%81%AEkiss%E3%81%AF%E7%82%8E%E3%82%88%E3%82%8A%E6%BF%80%E3%81%97%E3%81%8F/627419652?i=627419667&uo=4
+  date: '2009-12-23'
 - title: TRUST☆MY DREAM
   album: オーディションソング(1) TRUST☆MY DREAM / BELIEVE☆MY VOICE
   singers:
   - 一十木音也
   itunes: https://itunes.apple.com/jp/album/trust-my-dream/627415519?i=627415671&uo=4
+  date: '2009-11-26'
+- title: BELIEVE☆MY VOICE
+  album: オーディションソング(1) TRUST☆MY DREAM / BELIEVE☆MY VOICE
+  singers:
+  - 一ノ瀬トキヤ
+  itunes: https://itunes.apple.com/jp/album/believe-my-voice/627415519?i=627415672&uo=4
   date: '2009-11-26'
