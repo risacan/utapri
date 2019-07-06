@@ -11,6 +11,6 @@ git_email=$(git log -1 --pretty=format:"%ce")
 git clone \
   --depth 1 \
   --branch ${git_branch} \
-  https://${PERSONAL_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY} \
+  https://${PERSONAL_GITHUB_TOKEN}@github.com/${TARGET_REPOSITORY} \
 
 git push
