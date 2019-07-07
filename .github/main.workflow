@@ -14,7 +14,7 @@ action "sort" {
 }
 
 action "commit" {
-  uses = "docker://alpine/git:1.0.7"
+  uses = "docker://circleci/ruby:lates"
   needs = ["sort"]
   runs = "./scripts/commit.sh"
 }
