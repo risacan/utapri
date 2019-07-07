@@ -9,14 +9,12 @@ action "when pull requests" {
 }
 
 action "sort" {
-  uses = "docker://circleci/ruby:2.6.3-node-browsers-legacy"
+  uses = "docker://ruby:2.7.0-preview1"
   runs = "./scripts/sort.sh"
-  args = "--user root"
 }
 
 action "commit" {
-  uses = "docker://circleci/ruby:2.6.3-node-browsers-legacy"
+  uses = "docker://ruby:2.7.0-preview1"
   needs = ["sort"]
   runs = "./scripts/commit.sh"
-  args = "--user root"
 }
