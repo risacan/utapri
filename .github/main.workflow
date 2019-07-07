@@ -9,23 +9,23 @@ action "when pull requests" {
 }
 
 action "clone" {
-  uses = "sort"
+  uses = "docker://ruby:2.7.0-preview1"
   needs = ["when pull requests"]
   runs = "./scripts/clone"
   env = {
-    GITHUB_REPOSITORY = "risacan/utapri"
+    TARGET_REPOSITORY = "risacan/utapri"
   }
   secrets = ["PERSONAL_GITHUB_TOKEN"]
 }
 
 action "sort" {
-  uses = "sort"
+  uses = "docker://ruby:2.7.0-preview1"
   needs = ["clone"]
   runs = "./scripts/sort"
 }
 
 action "commit" {
-  uses = "commit"
+  uses = "docker://ruby:2.7.0-preview1"
   needs = ["sort"]
   runs = "./scripts/commit"
 }
