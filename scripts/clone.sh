@@ -5,8 +5,9 @@ set -eu
 git_branch=$(git symbolic-ref --short HEAD)
 git_name=$(git log -1 --pretty=format:"%cn")
 git_email=$(git log -1 --pretty=format:"%ce")
+user=$(whoami)
 
-cd `/Users/${whoami}`
+cd `/Users/${user}`
 
 git clone \
   --depth 1 \
