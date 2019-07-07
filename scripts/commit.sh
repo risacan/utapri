@@ -1,7 +1,6 @@
 #!/bin/bash
 set -eu
 
-cd utapri
 
 git_name=$(git log -1 --pretty=format:"%cn")
 git_email=$(git log -1 --pretty=format:"%ce")
