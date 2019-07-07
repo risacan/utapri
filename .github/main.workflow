@@ -9,7 +9,7 @@ action "when pull requests" {
 }
 
 action "clone" {
-  uses = "docker://alpine/git:1.0.7"
+  uses = "docker://circleci/ruby:2.7.0"
   needs = ["when pull requests"]
   runs = "./scripts/clone.sh"
   env = {
@@ -19,13 +19,13 @@ action "clone" {
 }
 
 action "sort" {
-  uses = "docker://ruby:2.7.0-preview1"
+  uses = "docker://circleci/ruby:2.7.0"
   needs = ["clone"]
   runs = "./scripts/sort.sh"
 }
 
 action "commit" {
-  uses = "docker://alpine/git:1.0.7"
+  uses = "docker://circleci/ruby:2.7.0"
   needs = ["sort"]
   runs = "./scripts/commit.sh"
 }
