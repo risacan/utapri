@@ -14,7 +14,7 @@ action "sort" {
 }
 
 action "commit" {
-  uses = "docker://imiell/docker-dev-tools-image:latest"
+  uses = "docker://alpine/git:latest"
   needs = ["sort"]
   runs = "./scripts/commit.sh"
 }
