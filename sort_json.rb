@@ -9,11 +9,16 @@ schema = JSON.dump(
 raise "Json schema is wrong" unless JSON::Validator.fully_validate(schema, json, strict: false) == []
 
 content = JSON.parse(File.read("./utapri.json"))
-songs = content["songs"].sort_by do |hash|
-  hash["date"]
+
+songs = content["songs"].sort do |a, b|
+  [a["date"], a["title"]] <=> [b["date"], b["title"]]
 end
 
 content["songs"] = songs.reverse
+formatted_json = JSON.pretty_generate(content)
 
+File.write('utapri.json', formatted_json)
 
-File.write('utapri.json', JSON.pretty_generate(content))
+yml = YAML.dump(JSON.load(formatted_json))
+File.write("utapri.yml", yml)
+
