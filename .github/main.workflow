@@ -8,19 +8,8 @@ action "when pull requests" {
   args = "not branch master"
 }
 
-action "clone" {
-  uses = "docker://circleci/ruby:2.6.3-node-browsers-legacy"
-  needs = ["when pull requests"]
-  runs = "./scripts/clone.sh"
-  env = {
-    TARGET_REPOSITORY = "risacan/utapri"
-  }
-  secrets = ["PERSONAL_GITHUB_TOKEN"]
-}
-
 action "sort" {
   uses = "docker://circleci/ruby:2.6.3-node-browsers-legacy"
-  needs = ["clone"]
   runs = "./scripts/sort.sh"
 }
 
