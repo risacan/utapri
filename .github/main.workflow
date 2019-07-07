@@ -14,7 +14,7 @@ action "sort" {
 }
 
 action "commit" {
-  uses = "docker://circleci/ruby:lates"
+  uses = "docker://circleci/ruby:latest-node-browsers-legacy"
   needs = ["sort"]
   runs = "./scripts/commit.sh"
 }
