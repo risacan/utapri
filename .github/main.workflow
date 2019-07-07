@@ -1,6 +1,6 @@
 workflow "Sort and Commit" {
   resolves = ["commit"]
-  on = "pull_request"
+  on = "push"
 }
 
 action "when pull requests" {
@@ -9,9 +9,9 @@ action "when pull requests" {
 }
 
 action "clone" {
-  uses = "docker://ruby:2.7.0-preview1"
+  uses = "docker://alpine/git:1.0.7"
   needs = ["when pull requests"]
-  runs = "./scripts/clone"
+  runs = "./scripts/clone.sh"
   env = {
     TARGET_REPOSITORY = "risacan/utapri"
   }
@@ -21,11 +21,11 @@ action "clone" {
 action "sort" {
   uses = "docker://ruby:2.7.0-preview1"
   needs = ["clone"]
-  runs = "./scripts/sort"
+  runs = "./scripts/sort.sh"
 }
 
 action "commit" {
-  uses = "docker://ruby:2.7.0-preview1"
+  uses = "docker://alpine/git:1.0.7"
   needs = ["sort"]
-  runs = "./scripts/commit"
+  runs = "./scripts/commit.sh"
 }
