@@ -6,7 +6,7 @@ git_branch=$(git symbolic-ref --short HEAD)
 git_name=$(git log -1 --pretty=format:"%cn")
 git_email=$(git log -1 --pretty=format:"%ce")
 
-chown `whoami` .
+chown `whoami` `pwd`
 
 git clone \
   --depth 1 \
