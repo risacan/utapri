@@ -17,4 +17,5 @@ action "commit" {
   uses = "docker://alpine/git:latest"
   needs = ["sort"]
   runs = "./scripts/commit.sh"
+  secrets = ["PERSONAL_GITHUB_TOKEN"]
 }
