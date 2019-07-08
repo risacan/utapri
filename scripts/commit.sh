@@ -4,7 +4,6 @@ set -eu
 git_name=$(git log -1 --pretty=format:"%cn")
 git_email=$(git log -1 --pretty=format:"%ce")
 
-chmod +rw .git/config
 git config --local user.name ${git_name}
 git config --local user.email ${git_email}
 
