@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -eu
 
 git_name=$(git log -1 --pretty=format:"%cn")
