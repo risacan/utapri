@@ -10,11 +10,11 @@ git config --local user.email ${git_email}
 if git diff utapri.json >/dev/null ; then
   git add utapri.json
   git commit -m ":shower: Sort utapri.json"
+  git push
 fi
 
 if git diff utapri.yml  >/dev/null ; then
   git add utapri.yml
   git commit -m ":sparkles: Update yml with utapri.json"
+  git push
 fi
-
-git push
