@@ -344,6 +344,22 @@
   ],
   "songs": [
     {
+      "title": "時のジュエル",
+      "album": "ソロベストアルバム 一ノ瀬トキヤ「Target is you!」",
+      "singers": [
+        "一ノ瀬トキヤ"
+      ],
+      "date": "2019-09-04"
+    },
+    {
+      "title": "Target is you!",
+      "album": "ソロベストアルバム 一ノ瀬トキヤ「Target is you!」",
+      "singers": [
+        "一ノ瀬トキヤ"
+      ],
+      "date": "2019-09-04"
+    },
+    {
       "title": "WONDER☆RONDO",
       "album": "うたの☆プリンスさまっ♪ Shining LiveテーマソングCD2",
       "singers": [
@@ -367,22 +383,6 @@
         "カミュ"
       ],
       "date": "2019-08-28"
-    },
-    {
-      "title": "時のジュエル",
-      "album": "ソロベストアルバム 一ノ瀬トキヤ「Target is you!」",
-      "singers": [
-        "一ノ瀬トキヤ"
-      ],
-      "date": "2019-09-04"
-    },
-    {
-      "title": "Target is you!",
-      "album": "ソロベストアルバム 一ノ瀬トキヤ「Target is you!」",
-      "singers": [
-        "一ノ瀬トキヤ"
-      ],
-      "date": "2019-09-04"
     },
     {
       "title": "月ノ唄",
