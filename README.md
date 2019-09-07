@@ -1,14 +1,51 @@
 # Utapri
-* Utapri yaml for princesses and princes
+* Utapri database library for princesses and princes
 
 
 # How to Use
 ```
-require "yaml"
+> const utapri = require("utapri")
+> utapri.characters.find(i => i.name == "聖川真斗")
+{
+  name: '聖川真斗',
+  name_en: 'MASATO HIJIRIKAWA',
+  sex: 'male',
+  height: '181cm',
+  weight: '64kg',
+  birthday: '12月29日',
+  blood_type: 'A',
+  group: 'ST☆RISH',
+  color_code: '#005bab',
+  birthplace: '京都府',
+  birthplace_en: 'Kyoto'
+}
+> utapri.characters.find(i => i.name == "聖川真斗").birthday
+'12月29日'
 
-yaml = YAML.load_file("utapri.yml")
-
-yaml["songs"].select{|s| s["singers"].include?("聖川真斗")}.map{|s| s["title"]} # => ["Lost Alice", "Shining☆Romance", "Lasting Oneness", "I swear...", "NIGHT DREAM", "BLOODY SHADOWS", "天空のミラクルスター", "ORIGINAL RESONANCE", "静炎ブレイブハート", "天下無敵の忍び道", "Beautiful Love", "RAINBOW☆DREAM", "恋桜", "Sanctuary", "Dream more than Love", "Knocking on the mind", "Mostフォルティシモ", "DOUBLE WISH", "BLUE×PRISM HEART", "永遠のトライスター", "騎士のKissは雪より優しく", "AMAZING LOVE", "Welcome to UTA☆PRI world!!", "マジLOVE1000%", "未来地図", "マジLOVE2000%", "夢追人へのSymphony", "マジLOVEレボリューションズ", "サンキュ", "マジLOVEレジェンドスター", "未来、夢、ありがとう…そして!", "Shining Star Xmas", "ADVENT ACE", "一緒にHang in there♪", "夢を歌へと…!", "WE ARE ST☆RISH!!", "GOLDEN☆STAR"]
-
-yaml["songs"].select{|s| s["singers"] == ["愛島セシル"]}.map{|s| s["title"]} # => ["甘美なるアルカディア", "GREEN AMBITION", "星のファンタジア", "Happiness", "Eternity Love", "愛と夢とアナタと", "DESTINY SONG", "愛のREINCARNATION"]
+> utapri.songs.filter(i => i.singers.includes("聖川真斗"))
+[
+  {
+    title: 'WONDER☆RONDO',
+    album: 'うたの☆プリンスさまっ♪ Shining LiveテーマソングCD2',
+    singers: [
+      '一十木音也', '聖川真斗',
+      '四ノ宮那月', '一ノ瀬トキヤ',
+      '神宮寺レン', '来栖翔',
+      '愛島セシル'
+    ],
+    date: '2019-08-28'
+  },
+  {
+    title: '真なる旋律は最愛を歌う',
+    album: 'ソロベストアルバム 聖川真斗「HOLY KNIGHT」',
+    singers: [ '聖川真斗' ],
+    date: '2019-07-03'
+  },
+  {
+    title: 'HOLY KNIGHT',
+    album: 'ソロベストアルバム 聖川真斗「HOLY KNIGHT」',
+    singers: [ '聖川真斗' ],
+    date: '2019-07-03'
+  }
+  ...
 ```
