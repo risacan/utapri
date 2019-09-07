@@ -1,0 +1,22 @@
+{
+  "name": "utapri",
+  "version": "1.0.0",
+  "description": "Utapri data for princesses & princes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risacan/utapri.git"
+  },
+  "keywords": [
+    "utapri"
+  ],
+  "author": "Risa Harada <supikateriburu@gmail.com> (https://risacan.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/risacan/utapri/issues"
+  },
+  "homepage": "https://github.com/risacan/utapri#readme"
+}
