@@ -344,6 +344,30 @@
   ],
   "songs": [
     {
+      "title": "Crown of Agna",
+      "album": "ソロベストアルバム愛島セシル「☆light ☆night」",
+      "singers": ["愛島セシル"],
+      "date": "2019-12-04"
+    },
+    {
+      "title": "☆light ☆night",
+      "album": "ソロベストアルバム愛島セシル「☆light ☆night」",
+      "singers": ["愛島セシル"],
+      "date": "2019-12-04"
+    },
+    {
+      "title": "翔ける軌跡",
+      "album": "ソロベストアルバム来栖 翔「Sweet Kiss」",
+      "singers": ["来栖翔"],
+      "date": "2019-11-06"
+    },
+    {
+      "title": "Sweet Kiss",
+      "album": "ソロベストアルバム来栖 翔「Sweet Kiss」",
+      "singers": ["来栖翔"],
+      "date": "2019-11-06"
+    },
+    {
       "title": "恋から愛へ…そして未来に",
       "album": "ソロベストアルバム 神宮寺レン「Rose Rose Romance」",
       "singers": [
