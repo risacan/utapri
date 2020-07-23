@@ -17,4 +17,5 @@ jobs:
         chmod +rw utapri.yml
         ruby sort_json.rb
         cd scripts
+        echo "hoge"
         commit.sh
