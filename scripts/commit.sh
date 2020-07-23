@@ -5,7 +5,7 @@ set -eu
 git config user.name "$(git log -1 --pretty=format:"%cn")"
 git config user.email "git log -1 --pretty=format:"%ce""
 
-echo ${{ github.ref }}
+echo $GITHUB_REF
 
 set +e
 
