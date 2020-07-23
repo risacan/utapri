@@ -6,7 +6,7 @@ git config user.name "$(git log -1 --pretty=format:"%cn")"
 git config user.email "$(git log -1 --pretty=format:"%ce")"
 
 echo $GITHUB_SHA
-git branch -a --contains ${GITHUB_SHA} | grep "*"
+git branch -a --contains ${GITHUB_SHA}
 branch_name=$(git branch -a --contains ${GITHUB_SHA} | grep "*")
 
 set +e
