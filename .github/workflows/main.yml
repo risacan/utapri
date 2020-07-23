@@ -17,5 +17,5 @@ jobs:
         chmod +rw utapri.yml
         ruby sort_json.rb
         scripts/commit.sh
-    - env:
+      env:
         PERSONAL_GITHUB_TOKEN: secrets.PERSONAL_GITHUB_TOKEN
