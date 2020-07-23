@@ -2,6 +2,7 @@ require "json"
 require 'json-schema'
 require 'yaml'
 
+puts "one"
 json = File.open('./utapri.json').read
 schema = JSON.dump(
   YAML::load(File.open('./utapri-schema.yml').read)
@@ -17,8 +18,10 @@ end
 content["songs"] = songs.reverse
 formatted_json = JSON.pretty_generate(content)
 
+puts "two"
 File.write('utapri.json', formatted_json)
 
 yml = YAML.dump(JSON.load(formatted_json))
 File.write("utapri.yml", yml)
 
+puts "three"
