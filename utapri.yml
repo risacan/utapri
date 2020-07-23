@@ -275,6 +275,73 @@ games:
 - うた☆プリアイランド
 - うたの☆プリンスさまっ♪ Shining Live
 songs:
+- title: "SUPER STAR"
+  album: "うたの☆プリンスさまっ♪「SUPER STAR/THIS IS...!/Genesis HE★VENS」"
+  singers:
+  - 一十木音也
+  - 聖川真斗
+  - 四ノ宮那月
+  - 一ノ瀬トキヤ
+  - 神宮寺レン
+  - 来栖翔
+  - 愛島セシル
+  group: ST☆RISH
+  date: "2020-09-16"
+- title: "THIS IS...!"
+  album: "うたの☆プリンスさまっ♪「SUPER STAR/THIS IS...!/Genesis HE★VENS」"
+  singers:
+  - 寿嶺二
+  - 黒崎蘭丸
+  - 美風藍
+  - カミュ
+  group: QUARTET NIGHT
+  date: "2020-09-16"
+- title: "Genesis HE★VENS"
+  album: "うたの☆プリンスさまっ♪「SUPER STAR/THIS IS...!/Genesis HE★VENS」"
+  singers:
+  - 鳳瑛一
+  - 皇綺羅
+  - 帝ナギ
+  - 鳳瑛二
+  - 桐生院ヴァン
+  - 日向大和
+  - 天草シオン
+  group: HE★VENS
+  date: "2020-09-16"
+- title: "Fall on me"
+  album: "うたの☆プリンスさまっ♪HE★VENSドラマCD下巻「Paradise Lost～Beside you～」"
+  singers:
+  - 鳳瑛一
+  - 桐生院ヴァン
+  - 日向大和
+  date: "2020-08-26"
+- title: "Beside you"
+  album: "うたの☆プリンスさまっ♪HE★VENSドラマCD上巻「Paradise Lost～Fall on me～」"
+  singers:
+  - 皇綺羅
+  - 帝ナギ
+  - 鳳瑛二
+  - 天草シオン
+  date: "2020-08-26"
+- title: "BLACK DEJAVU"
+  album: "うたの☆プリンスさまっ♪Another World～WHITE&BLACK～ テーマソングCD"
+  singers:
+  - 一十木音也
+  - 一ノ瀬トキヤ
+  - 神宮寺レン
+  - 寿嶺二
+  - 黒崎蘭丸
+  date: "2020-04-15"
+- title: "WHITE GRAVITY"
+  album: "うたの☆プリンスさまっ♪Another World～WHITE&BLACK～ テーマソングCD"
+  singers:
+  - 聖川真斗
+  - 四ノ宮那月
+  - 来栖翔
+  - 愛島セシル
+  - 美風藍
+  - カミュ
+  date: "2020-04-15"
 - title: "☆light ☆night"
   album: ソロベストアルバム愛島セシル「☆light ☆night」
   singers:
@@ -595,8 +662,7 @@ songs:
   itunes: https://itunes.apple.com/jp/album/heaven-sky/1295510641?i=1295510650&uo=4
   date: '2017-11-01'
 - title: 一緒にHang in there♪
-  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
-    Stars CD
+  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow Stars CD
   singers:
   - 一十木音也
   - 聖川真斗
@@ -607,16 +673,14 @@ songs:
   - 愛島セシル
   date: '2017-10-19'
 - title: Superb Spirits
-  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
-    Stars CD
+  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow Stars CD
   singers:
   - 一ノ瀬トキヤ
   - 神宮寺レン
   - 来栖翔
   date: '2017-10-19'
 - title: ADVENT ACE
-  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow
-    Stars CD
+  album: うたの☆プリンスさまっ♪ Amazing Aria & Sweet Serenade LOVE Premium Princess BOX封入特典　Rainbow Stars CD
   singers:
   - 一十木音也
   - 聖川真斗
