@@ -21,12 +21,20 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
     - run: |
         gem install bundler
         bundle
         chmod +rw utapri.json
         chmod +rw utapri.yml
         ruby "./sort_json.rb"
+    - run: |
+        git_branch=$(git symbolic-ref --short HEAD)
+        git_name=$(git log -1 --pretty=format:"%cn")
+        git_email=$(git log -1 --pretty=format:"%ce")
+        user=$(whoami)
+        cd `/Users/${user}`
+        git clone \
+          --depth 1 \
+          --branch ${git_branch} \
+          https://${PERSONAL_GITHUB_TOKEN}@github.com/${TARGET_REPOSITORY} \
+        git push
