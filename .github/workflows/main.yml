@@ -11,11 +11,11 @@ jobs:
       with:
         ruby-version: '2.6'
     - run: |
-      gem install bundler
-      bundle
-      chmod +rw utapri.json
-      chmod +rw utapri.yml
-      ruby sort_json.rb
+        gem install bundler
+        bundle
+        chmod +rw utapri.json
+        chmod +rw utapri.yml
+        ruby sort_json.rb
   commit:
     needs: sort
     runs-on: ubuntu-latest
