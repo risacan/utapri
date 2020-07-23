@@ -16,4 +16,8 @@ jobs:
         chmod +rw utapri.json
         chmod +rw utapri.yml
         ruby sort_json.rb
-        scripts/commit.sh
+        git config user.name "$(git log -1 --pretty=format:"%cn")"
+        git config user.email "git log -1 --pretty=format:"%ce""
+        git add utapri.json
+        git commit -m ":shower: Sort utapri.json"
+        git push "https://${{ secrets.PERSONAL_GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}" ${GITHUB_REF##*/}
