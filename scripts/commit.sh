@@ -2,6 +2,8 @@
 echo "hi"
 set -eu
 
+echo ${GITHUB_REF##*/}
+
 git_name=$(git log -1 --pretty=format:"%cn")
 git_email=$(git log -1 --pretty=format:"%ce")
 repository_name="https://${PERSONAL_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}"
