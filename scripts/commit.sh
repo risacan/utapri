@@ -6,7 +6,7 @@ echo ${GITHUB_REF##*/}
 
 git_name=$(git log -1 --pretty=format:"%cn")
 git_email=$(git log -1 --pretty=format:"%ce")
-repository_name="https://${PERSONAL_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}"
+repository_name="https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}"
 
 git config user.name ${git_name}
 git config user.email ${git_email}
