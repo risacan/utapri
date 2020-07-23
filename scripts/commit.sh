@@ -5,7 +5,7 @@ set -eu
 git config user.name "$(git log -1 --pretty=format:"%cn")"
 git config user.email "git log -1 --pretty=format:"%ce""
 
-echo ${{ github.event.pull_request.head.ref }}
+echo "${{ github.event.pull_request.head.ref }}"
 
 set +e
 
