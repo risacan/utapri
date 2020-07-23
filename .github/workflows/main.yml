@@ -10,12 +10,18 @@ jobs:
     - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.6'
+   sort:
+    needs: build
+    runs-on: ubuntu-latest
     - run: |
         gem install bundler
         bundle
         chmod +rw utapri.json
         chmod +rw utapri.yml
         ruby "./sort_json.rb"
+  commit:
+    needs: sort
+    runs-on: ubuntu-latest
     - run: |
         git_branch=$(git symbolic-ref --short HEAD)
         git_name=$(git log -1 --pretty=format:"%cn")
