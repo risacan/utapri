@@ -18,4 +18,4 @@ jobs:
         ruby sort_json.rb
         cd scripts
         echo "hoge"
-        ./commit.sh
+        ls
