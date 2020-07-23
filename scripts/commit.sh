@@ -1,5 +1,5 @@
 #!/bin/sh
-
+echo "hi"
 set -eu
 
 git_name=$(git log -1 --pretty=format:"%cn")
