@@ -19,3 +19,4 @@ if [ 0 -ne $? ]; then
   git add utapri.yml
   git commit -m ":sparkles: Update yml with utapri.json"
   git push "https://${{ secrets.PERSONAL_GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}" ${GITHUB_REF##*/}
+fi
