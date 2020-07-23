@@ -21,7 +21,12 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Run a one-line script
-      run: "./scripts/sort.sh"
-    - name: Run a multi-line script
-      run: "./scripts/commit.sh"
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - run: |
+        gem install bundler
+        bundle
+        chmod +rw utapri.json
+        chmod +rw utapri.yml
+        ruby "./sort_json.rb"
